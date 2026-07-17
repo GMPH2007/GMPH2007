@@ -1,12 +1,12 @@
-<!-- 
+﻿<!-- 
 ========================================================================
-ðŸ›¡ï¸ SECURITY PROTOCOL ACTIVE - GMPH2007 ORG ðŸ›¡ï¸
+[ SECURITY PROTOCOL ACTIVE - GMPH2007 ORG ]
 ========================================================================
-ESTE CÃ“DIGO FUENTE Y DISEÃ‘O ESTÃN PROTEGIDOS POR DERECHOS DE AUTOR (C).
-CUALQUIER PLAGIO, COPIA O CLONACIÃ“N SERÃ REPORTADO DE INMEDIATO A GITHUB.
+ESTE CODIGO FUENTE Y DISENO ESTAN PROTEGIDOS POR DERECHOS DE AUTOR.
+CUALQUIER PLAGIO, COPIA O CLONACION SERA REPORTADO DE INMEDIATO A GITHUB.
 
 THIS SOURCE CODE AND DESIGN ARE PROTECTED BY COPYRIGHT (C).
-ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
+ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
 ========================================================================
 -->
 <p align="center">
@@ -26,7 +26,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
 </p>
 
 <p align="center">
-  <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi ðŸ’Ž I'm Misael</code>
+  <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi 💎 I'm Misael</code>
 </p>
 
 <!-- Visitor Counter & Social Badges -->
@@ -47,31 +47,31 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ‘¤ Sobre MÃ­ / About Me
+## 👤 Sobre Mí / About Me
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="60%">
       <p>
-        <strong>ES:</strong> Â¡Hola! Soy <strong>Gerson Misael Pintado HuamÃ¡n</strong>, desarrollador web de Sullana, Piura, PerÃº. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseÃ±ar interfaces que combinen funcionalidad con una estÃ©tica premium.
+        <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseñar interfaces que combinen funcionalidad con una estética premium.
       </p>
       <p>
-        Especialista en Web Security y automatizaciones, enfocado en el desarrollo de herramientas de verificaciÃ³n de cookies (Cookie Checkers) y anÃ¡lisis de sesiones web seguras.
+        Especialista en Web Security y automatizaciones, enfocado en el desarrollo de herramientas de verificación de cookies (Cookie Checkers) y análisis de sesiones web seguras.
       </p>
       <p>
-        <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado HuamÃ¡n</strong>, a web developer based in Sullana, Piura, Peru. I focus on creating high-impact digital solutions that solve real-world problems. I love automating workflows, integrating artificial intelligence, and designing interfaces that blend function with a premium aesthetic.
+        <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a web developer based in Sullana, Piura, Peru. I focus on creating high-impact digital solutions that solve real-world problems. I love automating workflows, integrating artificial intelligence, and designing interfaces that blend function with a premium aesthetic.
       </p>
       <p>
         Specialist in Web Security and automation, focused on the development of Cookie Checkers and secure web session analysis tools.
       </p>
       <p>
-        ðŸŒ± <b>Enfoque / Focus:</b> 
+        🌱 <b>Enfoque / Focus:</b> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
         <img src="https://img.shields.io/badge/AI_Integrations-Smart-58a6ff?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cookie_Checker-ðŸª-8B4513?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cookie_Checker-🍪-8B4513?style=flat-square" />
       </p>
     </td>
     <td valign="middle" align="center" width="40%">
@@ -86,7 +86,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## âš™ï¸ TecnologÃ­as y Herramientas / Languages and Tools
+## ⚙️ Tecnologías y Herramientas / Languages and Tools
 
 > Tools and technologies that I have worked with and am interested in.
 
@@ -189,7 +189,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
       <br><sub>Firefox</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Cookie_Checker-ðŸª-8B4513?style=for-the-badge" height="30" alt="Cookie Checker" />
+      <img src="https://img.shields.io/badge/Cookie_Checker-🍪-8B4513?style=for-the-badge" height="30" alt="Cookie Checker" />
       <br><sub>Cookie Checker</sub>
     </td>
   </tr>
@@ -206,7 +206,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ† Logros y Trofeos / Profile Trophies
+## 🏆 Logros y Trofeos / Profile Trophies
 
 <p align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -227,7 +227,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ¦Š Colaboraciones de CÃ³digo Abierto / Open Source
+## 🦊 Colaboraciones de Código Abierto / Open Source
 
 <p align="left">
   <a href="https://github.com/mozilla/gecko-dev">
@@ -235,16 +235,16 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   </a>
 </p>
 
-*   **ES:** Colaborador del ecosistema de cÃ³digo abierto de Mozilla, aportando soluciones al entorno de Firefox.
+*   **ES:** Colaborador del ecosistema de código abierto de Mozilla, aportando soluciones al entorno de Firefox.
 *   **EN:** Contributor to Mozilla's open-source ecosystem, contributing code solutions to the Firefox environment.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸŽ® Contribuciones en Juego / Contribution Snake Game
+## 🎮 Contribuciones en Juego / Contribution Snake Game
 
-*Este juego de la serpiente se actualiza automÃ¡ticamente con mis contribuciones diarias:*
+*Este juego de la serpiente se actualiza automáticamente con mis contribuciones diarias:*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-snake-dark.svg" alt="Snake Animation" />
@@ -254,7 +254,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸš€ Proyectos Destacados / Featured Projects
+## 🚀 Proyectos Destacados / Featured Projects
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
@@ -266,9 +266,9 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <h3>ðŸ« Intranet y Aula Virtual I.E. 14739</h3>
+      <h3>🏫 Intranet y Aula Virtual I.E. 14739</h3>
       <p align="left">
-        <b>ES:</b> Intranet y aula virtual escolar para la gestiÃ³n y aprendizaje digital en tiempo real.<br/>
+        <b>ES:</b> Intranet y aula virtual escolar para la gestión y aprendizaje digital en tiempo real.<br/>
         <b>EN:</b> School intranet and virtual classroom for real-time digital management and learning.
       </p>
     </td>
@@ -280,9 +280,9 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
       <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square" />
-      <h3>ðŸ›¡ï¸ ARGOS - GestiÃ³n de Riesgos</h3>
+      <h3>🛡️ ARGOS - Gestión de Riesgos</h3>
       <p align="left">
-        <b>ES:</b> Plataforma autÃ³noma para la prevenciÃ³n y educaciÃ³n frente a riesgos naturales con mapas dinÃ¡micos.<br/>
+        <b>ES:</b> Plataforma autónoma para la prevención y educación frente a riesgos naturales con mapas dinámicos.<br/>
         <b>EN:</b> Autonomous natural disaster prevention and education platform featuring dynamic maps.
       </p>
     </td>
@@ -293,7 +293,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ“Š Actividad y EstadÃ­sticas / Activity & Stats
+## 📊 Actividad y Estadísticas / Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react" alt="Activity Graph" width="100%" />
@@ -320,7 +320,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ“¬ Contacto / Get in Touch
+## 📬 Contacto / Get in Touch
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -328,7 +328,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB.
       <ul>
         <li><b>Email:</b> <a href="mailto:misaelpintado7@gmail.com">misaelpintado7@gmail.com</a></li>
         <li><b>Empresa / Company:</b> Misael Pintado Empresarial</li>
-        <li><b>UbicaciÃ³n / Location:</b> Sullana, Piura, PerÃº ðŸ‡µðŸ‡ª</li>
+        <li><b>Ubicación / Location:</b> Sullana, Piura, Perú 🇵🇪</li>
       </ul>
     </td>
     <td valign="middle" align="center" width="30%">
