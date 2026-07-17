@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gmph_github_banner.jpg" alt="Gerson Misael Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gerson%20Misael&fontSize=55&theme=tokyonight&animation=twinkle" width="100%" />
 </p>
 
 <!-- Typing SVG -->
