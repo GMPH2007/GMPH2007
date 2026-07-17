@@ -10,7 +10,7 @@
 <!-- Typograssy WELCOME Graph -->
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img alt="Misael Graph" src="https://typograssy.deno.dev/api?text=MISAEL&bg=none&scheme=gameboy" />
+    <img alt="Misael Graph" src="https://typograssy.deno.dev/api?text=BIENVENIDO%20A%20MI%20PERFIL%20DE%20GITHUB%20-%20MISAEL%20FULL%20STACK%20DEVELOPER%20&bg=none&frame=none&scheme=gameboy&speed=150" />
   </a>
 </p>
 
