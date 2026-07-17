@@ -273,7 +273,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/GMPH2007/sistemateos.github.oi">
+      <a href="https://github.com/GMPH2007/sistemateos.github.io">
         <img src="project_argos_dashboard.jpg" alt="ARGOS Disaster Prevention" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       </a>
       <br/><br/>
