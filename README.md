@@ -9,41 +9,40 @@
 </p>
 
 <p align="center">
-  <img src="gmph_anime_avatar.jpg" alt="GMPH Logo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</p>
-
-<h1 align="center">¡Hola! Soy Gerson Misael (GMPH2007) 👋</h1>
-<p align="center">
-  <strong>Desarrollador Web | Creador de Soluciones Tecnológicas | Entusiasta de la IA</strong>
+  <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi 💎 I'm Misael</code>
 </p>
 
 <p align="center">
-  <a href="#about-me-english">English Description Below 🇬🇧</a>
+  <a href="mailto:misaelpintado7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 💻 Sobre Mí (Español 🇪🇸)
+## 👤 Sobre Mí / About Me
 
-¡Hola! Soy **Gerson Misael Pintado Huamán**, un desarrollador web y apasionado de la tecnología de Sullana, Piura, Perú. Me enfoco en crear soluciones digitales útiles y eficientes que resuelvan problemas del mundo real. Me encanta experimentar con inteligencia artificial, automatizaciones y crear interfaces atractivas y funcionales.
-
-### 🛠️ ¿Qué hago?
-- **Desarrollo Web Frontend & Backend:** Creación de aplicaciones robustas usando JavaScript, HTML5, CSS3, y Node.js.
-- **Soluciones Educativas y Sociales:** Diseñé e implementé la intranet y aula virtual para la I.E. 14739.
-- **Gestión de Riesgos:** Creador de **ARGOS**, una plataforma de prevención y educación frente a desastres naturales.
-- **Streaming & Media:** Desarrollo de plataformas web para reproducción de listas IPTV.
-
----
-
-## 💻 About Me (English 🇬🇧) <a id="about-me-english"></a>
-
-Hi! I'm **Gerson Misael Pintado Huamán**, a web developer and tech enthusiast based in Sullana, Piura, Peru. My focus is on building useful, efficient digital solutions that solve real-world problems. I love experimenting with artificial intelligence, automation, and crafting responsive, highly functional user interfaces.
-
-### 🛠️ What I do
-- **Full-Stack Web Development:** Crafting solid web applications using JavaScript, HTML5, CSS3, and Node.js.
-- **Educational & Social Solutions:** Designed and built the intranet and virtual classroom platform for I.E. 14739.
-- **Risk Management Platforms:** Developer of **ARGOS**, an autonomous platform for natural disaster prevention and education.
-- **Streaming & Media:** Building lightweight web platforms for IPTV playlist streaming.
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
+      <p>
+        <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseñar interfaces que combinen funcionalidad con una estética premium.
+      </p>
+      <p>
+        <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a web developer based in Sullana, Piura, Peru. I focus on creating high-impact digital solutions that solve real-world problems. I love automating workflows, integrating artificial intelligence, and designing interfaces that blend function with a premium aesthetic.
+      </p>
+      <p>
+        🌱 <b>Enfoque / Focus:</b> JavaScript | Node.js | HTML5 & CSS3 | IA Integrations
+      </p>
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="gmph_anime_avatar.jpg" width="180" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
