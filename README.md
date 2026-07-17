@@ -103,29 +103,38 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 
 ## 🚀 Proyectos Destacados / Featured Projects
 
-### 🏫 [Intranet y Aula Virtual I.E. 14739](https://github.com/GMPH2007/colegio-ie14739)
-*Intranet and Virtual Classroom for I.E. 14739 Eliseo Alcides Bernal La Serna.*
-- **Tecnologías:** HTML5, CSS3, JavaScript, Node.js.
-- **ES:** Digitaliza el aprendizaje escolar, facilitando la comunicación y tareas entre profesores y alumnos.
-- **EN:** Digitalizes school learning, streamlining communication and assignment tracking between teachers and students.
-
-### 🛡️ [ARGOS - Prevención de Riesgos](https://github.com/GMPH2007/sistemateos.github.oi)
-*Autonomous Platform for Natural Risk Prevention, Monitoring, and Education.*
-- **Tecnologías:** JavaScript, CSS Moderno, APIs Geográficas.
-- **ES:** Ayuda a comunidades a prepararse y educarse ante riesgos naturales con simulaciones e información en tiempo real.
-- **EN:** Helps communities prepare and educate themselves regarding natural risks through real-time info and simulations.
-
-### ⛵ [Navegando con ciencIA](https://github.com/Dev-Asfix/Navegando-con-ciencIA)
-*Interactive simulation of a boat sailing guided by science and AI.*
-- **Tecnologías:** JavaScript, HTML5 Canvas.
-- **ES:** Proyecto educativo interactivo para fomentar el aprendizaje científico experimental.
-- **EN:** An interactive educational project to foster experimental scientific learning.
-
-### 📺 [IPTV Web](https://github.com/GMPH2007/itpv-web)
-*Lightweight web app for IPTV playlist streaming.*
-- **Tecnologías:** HTML5, CSS3, JavaScript.
-- **ES:** Reproductor web rápido y minimalista para canales de TV en streaming.
-- **EN:** Fast, minimalist web player for live streaming TV channels.
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/colegio-ie14739">
+        <img src="project_school_dashboard.jpg" alt="Intranet I.E. 14739" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <h3>🏫 Intranet y Aula Virtual I.E. 14739</h3>
+      <p align="left">
+        <b>ES:</b> Intranet y aula virtual escolar para la gestión y aprendizaje digital en tiempo real.<br/>
+        <b>EN:</b> School intranet and virtual classroom for real-time digital management and learning.
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/sistemateos.github.oi">
+        <img src="project_argos_dashboard.jpg" alt="ARGOS Disaster Prevention" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square" />
+      <h3>🛡️ ARGOS - Gestión de Riesgos</h3>
+      <p align="left">
+        <b>ES:</b> Plataforma autónoma para la prevención y educación frente a riesgos naturales con mapas dinámicos.<br/>
+        <b>EN:</b> Autonomous natural disaster prevention and education platform featuring dynamic maps.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
@@ -134,7 +143,7 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 ## 📊 Actividad y Estadísticas / Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react" alt="Activity Graph" width="100%" />
 </p>
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -160,6 +169,17 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 
 ## 📬 Contacto / Get in Touch
 
-- **Email:** [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
-- **Empresa / Company:** Misael Pintado Empresarial
-- **Ubicación / Location:** Sullana, Piura, Perú 🇵🇪
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="70%">
+      <ul>
+        <li><b>Email:</b> <a href="mailto:misaelpintado7@gmail.com">misaelpintado7@gmail.com</a></li>
+        <li><b>Empresa / Company:</b> Misael Pintado Empresarial</li>
+        <li><b>Ubicación / Location:</b> Sullana, Piura, Perú 🇵🇪</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="30%">
+      <img src="https://raw.githubusercontent.com/blackcater/blackcater/raw/master/assets/octocat.gif" width="110" alt="Coding Octocat" />
+    </td>
+  </tr>
+</table>
