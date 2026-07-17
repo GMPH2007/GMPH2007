@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    @keyframes rotate {
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+    @keyframes pulse {
+      0%, 100% {
+        r: 92px;
+        stroke: #58a6ff;
+        filter: drop-shadow(0 0 3px #58a6ff);
+      }
+      50% {
+        r: 94px;
+        stroke: #ff7b72;
+        filter: drop-shadow(0 0 8px #ff7b72);
+      }
+    }
+    .avatar-border {
+      animation: pulse 4s infinite ease-in-out;
+      transform-origin: center;
+    }
+    .avatar-ring {
+      animation: rotate 10s infinite linear;
+      transform-origin: center;
+      stroke-dasharray: 10 15;
+    }
+  </style>
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="100" cy="100" r="86" />
+    </clipPath>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#bc3cf0" />
+      <stop offset="100%" stop-color="#ff7b72" />
+    </linearGradient>
+  </defs>
+  <!-- Glowing Outer Pulsing Ring -->
+  <circle cx="100" cy="100" r="92" fill="none" stroke-width="4" class="avatar-border" />
+  <!-- Rotating Dashed Ring -->
+  <circle cx="100" cy="100" r="89" fill="none" stroke="url(#neonGradient)" stroke-width="2" class="avatar-ring" />
+  <!-- Clipped Image -->
+  <image href="gmph_anime_avatar.jpg" x="14" y="14" width="172" height="172" clip-path="url(#circleView)" />
+</svg>
