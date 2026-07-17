@@ -82,8 +82,8 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-      <br><sub>Spring</sub>
+      <img src="https://thesvg.org/icons/spring-boot/default.svg" height="40" width="40" alt="Spring Boot" />
+      <br><sub>Spring Boot</sub>
     </td>
     <td align="center" width="96">
       <img src="./gif/java.gif" height="40" alt="Java" />
@@ -94,87 +94,87 @@
       <br><sub>REST API</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <img src="https://thesvg.org/icons/postgresql/default.svg" width="40" height="40" alt="PostgreSQL" />
       <br><sub>PostgreSQL</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <img src="https://thesvg.org/icons/git/default.svg" width="40" height="40" alt="Git" />
       <br><sub>Git</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
+      <img src="https://thesvg.org/icons/github/default.svg" width="40" height="40" alt="GitHub" />
       <br><sub>GitHub</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
+      <img src="https://thesvg.org/icons/docker/default.svg" width="40" height="40" alt="Docker" />
       <br><sub>Docker</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <img src="https://thesvg.org/icons/postman/default.svg" width="40" height="40" alt="Postman" />
       <br><sub>Postman</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+      <img src="https://thesvg.org/icons/linux/default.svg" height="40" width="40" alt="Linux" />
       <br><sub>Linux</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://thesvg.org/icons/javascript/default.svg" height="40" width="40" alt="JavaScript" />
       <br><sub>JavaScript</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+      <img src="https://thesvg.org/icons/html5/default.svg" height="40" width="40" alt="HTML5" />
       <br><sub>HTML5</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+      <img src="https://thesvg.org/icons/css/default.svg" height="40" width="40" alt="CSS3" />
       <br><sub>CSS3</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+      <img src="https://thesvg.org/icons/bootstrap/default.svg" height="40" width="40" alt="Bootstrap" />
       <br><sub>Bootstrap</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+      <img src="https://thesvg.org/icons/react/default.svg" height="40" width="40" alt="React" />
       <br><sub>React</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+      <img src="https://thesvg.org/icons/nodejs/default.svg" height="40" width="40" alt="Node.js" />
       <br><sub>Node.js</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+      <img src="https://thesvg.org/icons/mysql/default.svg" height="40" width="40" alt="MySQL" />
       <br><sub>MySQL</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
+      <img src="https://thesvg.org/icons/npm/default.svg" height="40" width="40" alt="NPM" />
       <br><sub>NPM</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" />
+      <img src="https://thesvg.org/icons/markdown/default.svg" height="40" width="40" alt="Markdown" />
       <br><sub>Markdown</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
+      <img src="https://thesvg.org/icons/wordpress/default.svg" height="40" width="40" alt="WordPress" />
       <br><sub>WordPress</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+      <img src="https://thesvg.org/icons/visual-studio-code/default.svg" height="40" width="40" alt="VSCode" />
       <br><sub>VSCode</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+      <img src="https://thesvg.org/icons/figma/default.svg" height="40" width="40" alt="Figma" />
       <br><sub>Figma</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
+      <img src="https://thesvg.org/icons/trello/default.svg" height="40" width="40" alt="Trello" />
       <br><sub>Trello</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="Firefox" />
+      <img src="https://thesvg.org/icons/firefox/default.svg" height="40" width="40" alt="Firefox" />
       <br><sub>Firefox</sub>
     </td>
     <td align="center" width="96">
