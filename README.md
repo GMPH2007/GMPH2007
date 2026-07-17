@@ -113,7 +113,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
       <br><sub>Git</sub>
     </td>
     <td align="center" width="96">
-      <img src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#116;&#104;&#101;&#115;&#118;&#103;&#46;&#111;&#114;&#103;&#47;&#105;&#99;&#111;&#110;&#115;&#47;&#103;&#105;&#116;&#104;&#117;&#98;&#47;&#100;&#101;&#102;&#97;&#117;&#108;&#116;&#46;&#115;&#118;&#103;" width="40" height="40" alt="GitHub" />
+      <img src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#116;&#104;&#101;&#115;&#118;&#103;&#46;&#111;&#114;&#103;&#47;&#105;&#99;&#111;&#110;&#115;&#47;&#103;&#105;&#116;&#104;&#117;&#98;&#47;&#108;&#105;&#103;&#104;&#116;&#46;&#115;&#118;&#103;" width="40" height="40" alt="GitHub" />
       <br><sub>GitHub</sub>
     </td>
     <td align="center" width="96">
@@ -196,8 +196,10 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
   <tr>
     <td align="center" colspan="8">
       <br/>
-      <img src="./gif/skill.gif" height="40" alt="Skill" style="display:inline-block; vertical-align:middle;" />
-      <span style="font-size:14px; font-weight:bold; vertical-align:middle; margin-left:8px;">Learning New Technologies</span>
+      <img src="./gif/pc.gif" height="40" alt="PC Setup" style="margin: 0 10px; display: inline-block; vertical-align: middle;" />
+      <img src="./gif/plapc.gif" height="40" alt="Laptop" style="margin: 0 10px; display: inline-block; vertical-align: middle;" />
+      <img src="./gif/skill.gif" height="40" alt="Learning" style="margin: 0 10px; display: inline-block; vertical-align: middle;" />
+      <br/><sub><b>Animated Workstations & Learning Setup</b></sub>
     </td>
   </tr>
 </table>
