@@ -10,7 +10,7 @@
 <!-- Typograssy WELCOME Graph -->
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="https://typograssy.deno.dev/api?text=MISAEL&bg=transparent&scheme=gameboy" alt="Misael Graph" />
+    <img alt="Misael Graph" src="https://typograssy.deno.dev/api?text=MISAEL&bg=none&scheme=gameboy" />
   </a>
 </p>
 
@@ -294,7 +294,7 @@
       <img src="https://github-stats-extended.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
   <tr>
