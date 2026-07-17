@@ -45,7 +45,13 @@
         <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseñar interfaces que combinen funcionalidad con una estética premium.
       </p>
       <p>
+        Especialista en Web Security y automatizaciones, enfocado en el desarrollo de herramientas de verificación de cookies (Cookie Checkers) y análisis de sesiones web seguras.
+      </p>
+      <p>
         <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a web developer based in Sullana, Piura, Peru. I focus on creating high-impact digital solutions that solve real-world problems. I love automating workflows, integrating artificial intelligence, and designing interfaces that blend function with a premium aesthetic.
+      </p>
+      <p>
+        Specialist in Web Security and automation, focused on the development of Cookie Checkers and secure web session analysis tools.
       </p>
       <p>
         🌱 <b>Enfoque / Focus:</b> 
@@ -54,6 +60,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
         <img src="https://img.shields.io/badge/AI_Integrations-Smart-58a6ff?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cookie_Checker-🍪-8B4513?style=flat-square" />
       </p>
     </td>
     <td valign="middle" align="center" width="40%">
@@ -171,8 +178,15 @@
       <br><sub>Firefox</sub>
     </td>
     <td align="center" width="96">
-      <img src="./gif/skill.gif" height="40" alt="Skill" />
-      <br><sub>Learning</sub>
+      <img src="https://img.shields.io/badge/Cookie_Checker-🍪-8B4513?style=for-the-badge" height="30" alt="Cookie Checker" />
+      <br><sub>Cookie Checker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="8">
+      <br/>
+      <img src="./gif/skill.gif" height="40" alt="Skill" style="display:inline-block; vertical-align:middle;" />
+      <span style="font-size:14px; font-weight:bold; vertical-align:middle; margin-left:8px;">Learning New Technologies</span>
     </td>
   </tr>
 </table>
@@ -184,9 +198,18 @@
 ## 🏆 Logros y Trofeos / Profile Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=GMPH2007&theme=onedark&column=4" alt="GitHub Trophies" />
-  </a>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d0NDB2OXBhcXR2OG85c2V5cmtzMmdia3Nmd2J3bWJhdDNwczJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0ExhcMhm6fn3dzrO/giphy.gif" width="70" alt="Animated Gold Trophy" />
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy-tawny.vercel.app/?username=GMPH2007&theme=onedark&column=4" alt="GitHub Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
