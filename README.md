@@ -81,9 +81,24 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GMPH2007&theme=onedark&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=GMPH2007&theme=onedark&column=4" alt="GitHub Trophies" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
+
+## 🦊 Colaboraciones de Código Abierto / Open Source
+
+<p align="left">
+  <a href="https://github.com/mozilla/gecko-dev">
+    <img src="https://img.shields.io/badge/Mozilla_Firefox-Contributor-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox Contributor" />
+  </a>
+</p>
+
+*   **ES:** Colaborador del ecosistema de código abierto de Mozilla, aportando soluciones al entorno de Firefox.
+*   **EN:** Contributor to Mozilla's open-source ecosystem, contributing code solutions to the Firefox environment.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
@@ -179,7 +194,7 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
       </ul>
     </td>
     <td valign="middle" align="center" width="30%">
-      <img src="https://raw.githubusercontent.com/blackcater/blackcater/raw/master/assets/octocat.gif" width="110" alt="Coding Octocat" />
+      <img src="gmph_avatar_animated.svg" width="130" alt="Animated Avatar Logo" />
     </td>
   </tr>
 </table>
