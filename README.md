@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Web+Developer;Entusiasta+de+la+IA;Creador+de+ARGOS" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="https://typograssy.deno.dev/api?text=WELCOME&bg=transparent" alt="Welcome Graph" />
+    <img src="https://typograssy.deno.dev/api?text=MISAEL&bg=transparent&scheme=gameboy" alt="Misael Graph" />
   </a>
 </p>
 
@@ -21,7 +25,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
 
 ## 👤 Sobre Mí / About Me
 
@@ -40,11 +46,15 @@
     </td>
     <td valign="middle" align="center" width="40%">
       <img src="gmph_anime_avatar.jpg" width="180" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.4);" />
+      <br/><br/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o1MGx6OW10Z3Boc2dyOXN2MG44OWg1cGNudTJvZTZtZmt5aWRpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qss01mpAkyOPtqKmVP/giphy.gif" width="150" alt="Coding Cat Sticker" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
 
 ## 🛠️ Tecnologías y Herramientas / Languages and Tools
 
@@ -53,6 +63,18 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,git,github,py,java,mysql,postgres,vscode,docker,postman,linux,figma,bootstrap,npm,markdown,wp,canvas,trello&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
+
+## 🏆 Logros y Trofeos / Profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GMPH2007&theme=onedark&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -84,16 +106,24 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
 - **ES:** Reproductor web rápido y minimalista para canales de TV en streaming.
 - **EN:** Fast, minimalist web player for live streaming TV channels.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
 
 ## 📊 Estadísticas / GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
 
 ## 📬 Contacto / Get in Touch
 
