@@ -2,10 +2,12 @@
   <img src="gmph_github_banner.jpg" alt="Gerson Misael Banner" width="100%" />
 </p>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Web+Developer;Entusiasta+de+la+IA;Creador+de+ARGOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Desarrollador+Web+Full+Stack;Web+Developer;Entusiasta+de+la+IA;Creador+de+ARGOS" alt="Typing SVG" />
 </p>
 
+<!-- Typograssy WELCOME Graph -->
 <p align="center">
   <a href="https://github.com/GMPH2007">
     <img src="https://typograssy.deno.dev/api?text=MISAEL&bg=transparent&scheme=gameboy" alt="Misael Graph" />
@@ -14,6 +16,11 @@
 
 <p align="center">
   <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi 💎 I'm Misael</code>
+</p>
+
+<!-- Visitor Counter & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GMPH2007&color=58a6ff&style=flat-square&label=Vistas+de+Perfil+/+Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -78,7 +85,21 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
+
+## 🎮 Contribuciones en Juego / Contribution Snake Game
+
+*Este juego de la serpiente se actualiza automáticamente con mis contribuciones diarias:*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
 
 ## 🚀 Proyectos Destacados / Featured Projects
 
@@ -110,7 +131,11 @@ Aquí tienes las tecnologías que utilizo y con las que me gusta trabajar:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## 📊 Estadísticas / GitHub Stats
+## 📊 Actividad y Estadísticas / Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=tokyonight" alt="Activity Graph" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
