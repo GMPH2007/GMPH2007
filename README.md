@@ -262,7 +262,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/GMPH2007/colegio-ie14739">
-        <img src="project_school_dashboard.jpg" alt="Intranet I.E. 14739" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+        <img src="project_school_animated.svg" alt="Intranet I.E. 14739" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -276,7 +276,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/GMPH2007/sistemateos.github.io">
-        <img src="project_argos_dashboard.jpg" alt="ARGOS Disaster Prevention" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+        <img src="project_argos_animated.svg" alt="ARGOS Disaster Prevention" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
