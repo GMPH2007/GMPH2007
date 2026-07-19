@@ -1,13 +1,14 @@
-﻿<!-- 
-========================================================================
-[ SECURITY PROTOCOL ACTIVE - GMPH2007 ORG ]
-========================================================================
-ESTE CODIGO FUENTE Y DISENO ESTAN PROTEGIDOS POR DERECHOS DE AUTOR.
-CUALQUIER PLAGIO, COPIA O CLONACION SERA REPORTADO DE INMEDIATO A GITHUB.
+<!-- 
+================================================================================
+[ SECURITY PROTOCOL ACTIVE — GMPH2007 ORG ]
+================================================================================
+© 2024-2026 Gerson Misael Pintado Huamán. ALL RIGHTS RESERVED.
+ESTE CÓDIGO, DISEÑO Y ESTRUCTURA ESTÁN PROTEGIDOS POR DERECHOS DE AUTOR.
+CUALQUIER PLAGIO, COPIA O CLONACIÓN SERÁ REPORTADO DE INMEDIATO A GITHUB.
 
-THIS SOURCE CODE AND DESIGN ARE PROTECTED BY COPYRIGHT (C).
-ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
-========================================================================
+THIS SOURCE CODE, DESIGN AND STRUCTURE ARE PROTECTED BY COPYRIGHT.
+ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
+================================================================================
 -->
 <p align="center">
   <img src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#99;&#97;&#112;&#115;&#117;&#108;&#101;&#45;&#114;&#101;&#110;&#100;&#101;&#114;&#46;&#118;&#101;&#114;&#99;&#101;&#108;&#46;&#97;&#112;&#112;&#47;&#97;&#112;&#105;&#63;&#116;&#121;&#112;&#101;&#61;&#119;&#97;&#118;&#105;&#110;&#103;&#38;&#99;&#111;&#108;&#111;&#114;&#61;&#103;&#114;&#97;&#100;&#105;&#101;&#110;&#116;&#38;&#104;&#101;&#105;&#103;&#104;&#116;&#61;&#50;&#50;&#48;&#38;&#115;&#101;&#99;&#116;&#105;&#111;&#110;&#61;&#104;&#101;&#97;&#100;&#101;&#114;&#38;&#116;&#101;&#120;&#116;&#61;&#71;&#101;&#114;&#115;&#111;&#110;&#37;&#50;&#48;&#77;&#105;&#115;&#97;&#101;&#108;&#38;&#102;&#111;&#110;&#116;&#83;&#105;&#122;&#101;&#61;&#53;&#53;&#38;&#116;&#104;&#101;&#109;&#101;&#61;&#116;&#111;&#107;&#121;&#111;&#110;&#105;&#103;&#104;&#116;&#38;&#97;&#110;&#105;&#109;&#97;&#116;&#105;&#111;&#110;&#61;&#116;&#119;&#105;&#110;&#107;&#108;&#101;" width="100%" />
@@ -43,6 +44,13 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
   </a>
 </p>
 
+<!-- Security Shields -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔐_Secured-JWT%20Auth-00c853?style=for-the-badge" alt="JWT Secured" />
+  <img src="https://img.shields.io/badge/🛡️_Protected-SHA256%20Encrypted-1565c0?style=for-the-badge" alt="SHA256" />
+  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Work-ff6f00?style=for-the-badge" alt="Open to Work" />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
@@ -53,16 +61,16 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
   <tr>
     <td valign="top" width="60%">
       <p>
-        <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseñar interfaces que combinen funcionalidad con una estética premium.
+        <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú 🇵🇪. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales. Me apasiona automatizar procesos, integrar inteligencia artificial y diseñar interfaces que combinen funcionalidad con una estética premium.
       </p>
       <p>
-        Especialista en Web Security y automatizaciones, enfocado en el desarrollo de herramientas de verificación de cookies (Cookie Checkers) y análisis de sesiones web seguras.
+        🔐 Especialista en <strong>Web Security</strong> y automatizaciones: implemento cifrado <strong>SHA-256</strong>, autenticación <strong>JWT real</strong>, y análisis de sesiones web seguras. Creador de herramientas profesionales de Cookie Checker con verificación criptográfica.
       </p>
       <p>
-        <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a web developer based in Sullana, Piura, Peru. I focus on creating high-impact digital solutions that solve real-world problems. I love automating workflows, integrating artificial intelligence, and designing interfaces that blend function with a premium aesthetic.
+        <strong>EN:</strong> Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a full-stack web developer based in Sullana, Piura, Peru 🇵🇪. I build high-impact digital solutions that solve real-world problems — from AI-integrated platforms to autonomous robotics interfaces.
       </p>
       <p>
-        Specialist in Web Security and automation, focused on the development of Cookie Checkers and secure web session analysis tools.
+        🛡️ Specialist in <strong>Web Security & Automation</strong>: real SHA-256 encryption, JWT authentication, stream cipher databases, and professional Cookie Checker tools. My apps are hardened against XSS, session hijacking, and replay attacks.
       </p>
       <p>
         🌱 <b>Enfoque / Focus:</b> 
@@ -328,13 +336,25 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED.
   <tr>
     <td valign="top" width="70%">
       <ul>
-        <li><b>Email:</b> <a href="mailto:misaelpintado7@gmail.com">misaelpintado7@gmail.com</a></li>
-        <li><b>Empresa / Company:</b> Misael Pintado Empresarial</li>
-        <li><b>Ubicación / Location:</b> Sullana, Piura, Perú 🇵🇪</li>
+        <li>📧 <b>Email:</b> <a href="mailto:misaelpintado7@gmail.com">misaelpintado7@gmail.com</a></li>
+        <li>🏢 <b>Empresa / Company:</b> Misael Pintado Empresarial</li>
+        <li>📍 <b>Ubicación / Location:</b> Sullana, Piura, Perú 🇵🇪</li>
+        <li>🔐 <b>Seguridad / Security:</b> JWT + SHA-256 + Cifrado Simétrico</li>
+        <li>⚡ <b>Disponible / Available:</b> Para proyectos y colaboraciones</li>
       </ul>
     </td>
     <td valign="middle" align="center" width="30%">
       <img src="gmph_avatar_animated.svg" width="130" alt="Animated Avatar Logo" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔒_Cuenta-Protegida-00c853?style=flat-square" alt="Account Protected" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
+
+<p align="center">
+  <sub>⚠️ <b>AVISO DE SEGURIDAD:</b> Este perfil y sus proyectos están protegidos por Copyright © 2024-2026 GMPH2007. Cifrado real SHA-256 | JWT Auth | Protección Anti-Scraping activa.</sub>
+</p>
