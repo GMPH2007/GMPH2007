@@ -269,7 +269,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/GMPH2007/colegio-ie14739">
+      <a href="https://colegio14739.freedev.app/">
         <img src="project_school_animated.svg" alt="Intranet I.E. 14739" width="100%" />
       </a>
       <br/><br/>
@@ -281,9 +281,14 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
         <b>ES:</b> Intranet y aula virtual escolar para la gestión y aprendizaje digital en tiempo real.<br/>
         <b>EN:</b> School intranet and virtual classroom for real-time digital management and learning.
       </p>
+      <p align="center">
+        <a href="https://colegio14739.freedev.app/">
+          <img src="https://img.shields.io/badge/🌐_Visitar_Sitio_Web-colegio14739.freedev.app-1565c0?style=for-the-badge" alt="Visitar Sitio Web" />
+        </a>
+      </p>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/GMPH2007/sistemateos.github.oi">
+      <a href="https://gmph2007.github.io/sistemateos.github.oi/">
         <img src="project_argos_animated.svg" alt="ARGOS Disaster Prevention" width="100%" />
       </a>
       <br/><br/>
@@ -294,6 +299,11 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
       <p align="left">
         <b>ES:</b> Plataforma autónoma para la prevención y educación frente a riesgos naturales con mapas dinámicos.<br/>
         <b>EN:</b> Autonomous natural disaster prevention and education platform featuring dynamic maps.
+      </p>
+      <p align="center">
+        <a href="https://gmph2007.github.io/sistemateos.github.oi/">
+          <img src="https://img.shields.io/badge/🚀_Ver_Demo_En_Vivo-ARGOS_Platform-6200ea?style=for-the-badge" alt="Ver Demo ARGOS" />
+        </a>
       </p>
     </td>
   </tr>
