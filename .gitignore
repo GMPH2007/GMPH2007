@@ -1,0 +1,15 @@
+!.vim
+cov_profile
+
+# ==========================================
+# SECURITY: Never upload these to GitHub!
+# ==========================================
+# Scripts with private tokens / API keys
+scratch/
+*.env
+.env*
+*.ps1
+*token*
+*secret*
+*password*
+*credentials*
