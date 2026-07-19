@@ -307,7 +307,87 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/discord-moderation-bot">
+        <img src="https://img.shields.io/badge/🤖_Discord_Bot-Moderation_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <h3>🤖 Discord Moderation Bot</h3>
+      <p align="left">
+        <b>ES:</b> Bot de moderación para servidores Discord con comandos avanzados de gestión, logs y sistema de sanciones.<br/>
+        <b>EN:</b> Advanced Discord moderation bot with management commands, logging and sanctions system.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GMPH2007/discord-moderation-bot">
+          <img src="https://img.shields.io/badge/💾_Ver_Código-GitHub-24292e?style=for-the-badge&logo=github" alt="Ver Código" />
+        </a>
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/premium-laravel-template">
+        <img src="https://img.shields.io/badge/🚀_Laravel_Template-Premium_Panel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Template" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <h3>⚡ Premium Laravel Template</h3>
+      <p align="left">
+        <b>ES:</b> Template premium con panel de administración moderno para proyectos Laravel con UI oscura y componentes avanzados.<br/>
+        <b>EN:</b> Premium Laravel admin panel template with modern dark UI and advanced components.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GMPH2007/premium-laravel-template">
+          <img src="https://img.shields.io/badge/💾_Ver_Código-GitHub-24292e?style=for-the-badge&logo=github" alt="Ver Código" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/TrendRadar">
+        <img src="https://img.shields.io/badge/📡_TrendRadar-Análisis_de_Tendencias-00bcd4?style=for-the-badge" alt="TrendRadar" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <h3>📡 TrendRadar</h3>
+      <p align="left">
+        <b>ES:</b> Plataforma de análisis y visualización de tendencias en tiempo real.<br/>
+        <b>EN:</b> Real-time trend analysis and visualization platform.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GMPH2007/TrendRadar">
+          <img src="https://img.shields.io/badge/💾_Ver_Código-GitHub-24292e?style=for-the-badge&logo=github" alt="Ver TrendRadar" />
+        </a>
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/GMPH2007/ConcienIa">
+        <img src="https://img.shields.io/badge/🧠_ConcienIA-Inteligencia_Artificial-7c3aed?style=for-the-badge" alt="ConcienIA" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <h3>🧠 ConcienIA</h3>
+      <p align="left">
+        <b>ES:</b> Proyecto de inteligencia artificial para análisis de conciencia y procesamiento cognitivo.<br/>
+        <b>EN:</b> Artificial intelligence project for consciousness analysis and cognitive processing.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GMPH2007/ConcienIa">
+          <img src="https://img.shields.io/badge/💾_Ver_Código-GitHub-24292e?style=for-the-badge&logo=github" alt="Ver ConcienIA" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
