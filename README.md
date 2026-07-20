@@ -257,11 +257,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
 *La serpiente come mis contribuciones — se actualiza automáticamente cada 6 horas:*
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-contribution-grid-snake-neon.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -406,7 +402,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
@@ -415,7 +411,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
   <tr>
     <td align="center" colspan="2" valign="top">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="70%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="70%" />
     </td>
   </tr>
 </table>
