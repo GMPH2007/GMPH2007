@@ -257,7 +257,7 @@ ANY PLAGIARISM, COPY OR CLONING WILL BE IMMEDIATELY REPORTED TO GITHUB TRUST.
 *La serpiente come mis contribuciones — se actualiza automáticamente cada 6 horas:*
 
 <p align="center">
-  <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
