@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi ðŸ’Ž I'm Misael</code>
+  <code style="font-size: 22px; font-weight: bold; color: #58a6ff;">Hi &#128142; I'm Misael</code>
 </p>
 
 <p align="center">
@@ -36,25 +36,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ðŸ”_Secured-JWT%20Auth-00c853?style=for-the-badge" alt="JWT Secured" />
-  <img src="https://img.shields.io/badge/ðŸ›¡ï¸_Protected-SHA256%20Encrypted-1565c0?style=for-the-badge" alt="SHA256" />
-  <img src="https://img.shields.io/badge/âš¡_Status-Open%20to%20Work-ff6f00?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%90_Secured-JWT%20Auth-00c853?style=for-the-badge" alt="JWT Secured" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Protected-SHA256%20Encrypted-1565c0?style=for-the-badge" alt="SHA256" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Status-Open%20to%20Work-ff6f00?style=for-the-badge" alt="Open to Work" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ‘¤ Sobre MÃ­ / About Me
+## &#128100; Sobre MÃ­ / About Me
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="60%">
       <p>
-        <strong>ES:</strong> Â¡Hola! Soy <strong>Gerson Misael Pintado HuamÃ¡n</strong>, desarrollador web de Sullana, Piura, PerÃº ðŸ‡µðŸ‡ª. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales.
+        <strong>ES:</strong> Â¡Hola! Soy <strong>Gerson Misael Pintado HuamÃ¡n</strong>, desarrollador web de Sullana, Piura, PerÃº &#127477;&#127470;. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales.
       </p>
       <p>
-        ðŸ” Especialista en <strong>Web Security</strong> y automatizaciones: implemento cifrado <strong>SHA-256</strong>, autenticaciÃ³n <strong>JWT real</strong>, y anÃ¡lisis de sesiones web seguras.
+        &#128272; Especialista en <strong>Web Security</strong> y automatizaciones: implemento cifrado <strong>SHA-256</strong>, autenticaciÃ³n <strong>JWT real</strong>, y anÃ¡lisis de sesiones web seguras.
       </p>
     </td>
     <td valign="middle" align="center" width="40%">
@@ -67,7 +67,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ Contribuciones en Juego / Contribution Snake Game
+## &#128013; Contribuciones en Juego / Contribution Snake Game
 
 *La serpiente come mis contribuciones â€” se actualiza automÃ¡ticamente cada 6 horas:*
 
@@ -79,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸš€ Proyectos Destacados / Featured Projects
+## &#128640; Proyectos Destacados / Featured Projects
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
@@ -87,31 +87,31 @@
       <a href="https://colegio14739.freedev.app/">
         <img src="project_school_animated.svg" alt="Intranet I.E. 14739" width="100%" />
       </a>
-      <h3>ðŸ« Intranet y Aula Virtual I.E. 14739</h3>
-      <p><a href="https://colegio14739.freedev.app/">ðŸŒ Visitar Sitio Web</a></p>
+      <h3>&#127979; Intranet y Aula Virtual I.E. 14739</h3>
+      <p><a href="https://colegio14739.freedev.app/">&#127760; Visitar Sitio Web</a></p>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://gmph2007.github.io/sistemateos.github.oi/">
         <img src="project_argos_animated.svg" alt="ARGOS Disaster Prevention" width="100%" />
       </a>
-      <h3>ðŸ›¡ï¸ ARGOS - GestiÃ³n de Riesgos</h3>
-      <p><a href="https://gmph2007.github.io/sistemateos.github.oi/">ðŸš€ Ver Demo En Vivo</a></p>
+      <h3>&#128737; ARGOS - GestiÃ³n de Riesgos</h3>
+      <p><a href="https://gmph2007.github.io/sistemateos.github.oi/">&#128640; Ver Demo En Vivo</a></p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">
-        <img src="https://img.shields.io/badge/ðŸ¤–_Follower_Bot-Automated-2ea44f?style=for-the-badge" alt="Follower Bot" width="100%" />
+        <img src="https://img.shields.io/badge/%F0%9F%A4%96_Follower_Bot-Automated-2ea44f?style=for-the-badge" alt="Follower Bot" width="100%" />
       </a>
-      <h3>ðŸ¤– GitHub Follower Bot Automated</h3>
-      <p><a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">ðŸ’¾ Ver CÃ³digo</a></p>
+      <h3>&#129302; GitHub Follower Bot Automated</h3>
+      <p><a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">&#128190; Ver CÃ³digo</a></p>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/GMPH2007/Bad-Robo">
-        <img src="https://img.shields.io/badge/ðŸ¤–_Bad--Robo-Multi--Tool-ff2d20?style=for-the-badge" alt="Bad-Robo" width="100%" />
+        <img src="https://img.shields.io/badge/%F0%9F%A4%96_Bad--Robo-Multi--Tool-ff2d20?style=for-the-badge" alt="Bad-Robo" width="100%" />
       </a>
-      <h3>ðŸ¤– Bad-Robo Automation</h3>
-      <p><a href="https://github.com/GMPH2007/Bad-Robo">ðŸ’¾ Ver CÃ³digo</a></p>
+      <h3>&#129302; Bad-Robo Automation</h3>
+      <p><a href="https://github.com/GMPH2007/Bad-Robo">&#128190; Ver CÃ³digo</a></p>
     </td>
   </tr>
 </table>
@@ -120,7 +120,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## ðŸ“Š Actividad y EstadÃ­sticas / Activity & Stats
+## &#128202; Actividad y EstadÃ­sticas / Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react" alt="Activity Graph" width="100%" />
