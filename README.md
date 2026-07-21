@@ -141,10 +141,10 @@
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=GMPH2007&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
-</table>
+</table>
