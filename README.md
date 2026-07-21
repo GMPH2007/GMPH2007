@@ -1,8 +1,8 @@
 <!-- 
 ================================================================================
-[ SECURITY PROTOCOL ACTIVE â€” GMPH2007 ORG ]
+[ SECURITY PROTOCOL ACTIVE — GMPH2007 ORG ]
 ================================================================================
-Â© 2024-2026 Gerson Misael Pintado HuamÃ¡n. ALL RIGHTS RESERVED.
+© 2024-2026 Gerson Misael Pintado Huamán. ALL RIGHTS RESERVED.
 ================================================================================
 -->
 <p align="center">
@@ -45,16 +45,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128100; Sobre MÃ­ / About Me
+## &#128100; Sobre Mí / About Me
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="60%">
       <p>
-        <strong>ES:</strong> Â¡Hola! Soy <strong>Gerson Misael Pintado HuamÃ¡n</strong>, desarrollador web de Sullana, Piura, PerÃº &#127477;&#127470;. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales.
+        <strong>ES:</strong> ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web de Sullana, Piura, Perú &#127477;&#127470;. Me enfoco en crear soluciones digitales de alto impacto que resuelvan problemas reales.
       </p>
       <p>
-        &#128272; Especialista en <strong>Web Security</strong> y automatizaciones: implemento cifrado <strong>SHA-256</strong>, autenticaciÃ³n <strong>JWT real</strong>, y anÃ¡lisis de sesiones web seguras.
+        🔐 Especialista en <strong>Web Security</strong> y automatizaciones: implemento cifrado <strong>SHA-256</strong>, autenticación <strong>JWT real</strong>, y análisis de sesiones web seguras.
       </p>
     </td>
     <td valign="middle" align="center" width="40%">
@@ -69,7 +69,7 @@
 
 ## &#128013; Contribuciones en Juego / Contribution Snake Game
 
-*La serpiente come mis contribuciones â€” se actualiza automÃ¡ticamente cada 6 horas:*
+*La serpiente come mis contribuciones — se actualiza automáticamente cada 6 horas:*
 
 <p align="center">
   <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -87,15 +87,15 @@
       <a href="https://colegio14739.freedev.app/">
         <img src="project_school_animated.svg" alt="Intranet I.E. 14739" width="100%" />
       </a>
-      <h3>&#127979; Intranet y Aula Virtual I.E. 14739</h3>
-      <p><a href="https://colegio14739.freedev.app/">&#127760; Visitar Sitio Web</a></p>
+      <h3>🏫 Intranet y Aula Virtual I.E. 14739</h3>
+      <p><a href="https://colegio14739.freedev.app/">🌐 Visitar Sitio Web</a></p>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://gmph2007.github.io/sistemateos.github.oi/">
         <img src="project_argos_animated.svg" alt="ARGOS Disaster Prevention" width="100%" />
       </a>
-      <h3>&#128737; ARGOS - GestiÃ³n de Riesgos</h3>
-      <p><a href="https://gmph2007.github.io/sistemateos.github.oi/">&#128640; Ver Demo En Vivo</a></p>
+      <h3>🛡️ ARGOS - Gestión de Riesgos</h3>
+      <p><a href="https://gmph2007.github.io/sistemateos.github.oi/">🚀 Ver Demo En Vivo</a></p>
     </td>
   </tr>
   <tr>
@@ -103,24 +103,35 @@
       <a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">
         <img src="https://img.shields.io/badge/%F0%9F%A4%96_Follower_Bot-Automated-2ea44f?style=for-the-badge" alt="Follower Bot" width="100%" />
       </a>
-      <h3>&#129302; GitHub Follower Bot Automated</h3>
-      <p><a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">&#128190; Ver CÃ³digo</a></p>
+      <h3>🤖 GitHub Follower Bot Automated</h3>
+      <p><a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated">💾 Ver Código</a></p>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/GMPH2007/Bad-Robo">
         <img src="https://img.shields.io/badge/%F0%9F%A4%96_Bad--Robo-Multi--Tool-ff2d20?style=for-the-badge" alt="Bad-Robo" width="100%" />
       </a>
-      <h3>&#129302; Bad-Robo Automation</h3>
-      <p><a href="https://github.com/GMPH2007/Bad-Robo">&#128190; Ver CÃ³digo</a></p>
+      <h3>🤖 Bad-Robo Automation</h3>
+      <p><a href="https://github.com/GMPH2007/Bad-Robo">💾 Ver Código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2" style="padding-top: 1.5rem;">
+      <a href="https://gmph2007.github.io/trabajo-final-outsourcing/">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90_Trabajo_Final-Outsourcing_TI_360%C2%B0-00f3ff?style=for-the-badge&logo=githubpages&logoColor=black" alt="Trabajo Final Outsourcing" width="60%" />
+      </a>
+      <h3>🌐 Portafolio Digital de Outsourcing TI</h3>
+      <p>Trabajo Final Integrador de los Semestres 15 y 16 — IESTP Hermanos Cárcamo</p>
+      <p><a href="https://gmph2007.github.io/trabajo-final-outsourcing/">🚀 Ver Sitio Web En Vivo (GitHub Pages)</a></p>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128202; Actividad y EstadÃ­sticas / Activity & Stats
+## &#128202; Actividad y Estadísticas / Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react" alt="Activity Graph" width="100%" />
@@ -135,4 +146,4 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMPH2007&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
-</table>
+</table>
