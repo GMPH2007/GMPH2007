@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <rect width="450" height="195" rx="15" fill="#0d1324" stroke="#a855f7" stroke-width="1.5" />
+  
+  <!-- Title -->
+  <text x="30" y="35" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#a855f7">
+    Gerson Misael's Contribution Streaks
+  </text>
+  
+  <!-- Stats Items -->
+  <g transform="translate(30, 60)">
+    <!-- Total Contributions -->
+    <text x="0" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Total Contributions:</text>
+    <text x="170" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#00ff9d">1,862+</text>
+    
+    <!-- Current Streak -->
+    <text x="0" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Current Streak:</text>
+    <text x="170" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#00f3ff">42 Days</text>
+    
+    <!-- Longest Streak -->
+    <text x="0" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Longest Streak:</text>
+    <text x="170" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffb703">56 Days</text>
+    
+    <!-- Active Days -->
+    <text x="0" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Active Days Ratio:</text>
+    <text x="170" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff2a85">94%</text>
+  </g>
+  
+  <!-- Fire Streak Icon -->
+  <g transform="translate(330, 50)">
+    <path d="M25 15 C25 15 35 25 35 45 C35 60 25 70 25 70 C25 70 15 60 15 45 C15 25 25 15 25 15 Z" fill="#ff7a00" stroke="#ffb703" stroke-width="2" filter="drop-shadow(0 0 10px #ff7a00)" />
+    <path d="M25 30 C25 30 30 38 30 48 C30 55 25 60 25 60 C25 60 20 55 20 48 C20 38 25 30 25 30 Z" fill="#ffb703" />
+    <text x="25" y="96" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#cbd5e1">
+      ON FIRE!
+    </text>
+  </g>
+</svg>

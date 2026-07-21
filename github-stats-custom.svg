@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <rect width="450" height="195" rx="15" fill="#0d1324" stroke="#00f3ff" stroke-width="1.5" />
+  
+  <!-- Title -->
+  <text x="30" y="35" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#00f3ff">
+    Gerson Misael's GitHub Stats
+  </text>
+  
+  <!-- Stats Items -->
+  <g transform="translate(30, 60)">
+    <!-- Commits -->
+    <text x="0" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Total Commits:</text>
+    <text x="160" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#00ff9d">1,824</text>
+    
+    <!-- PRs -->
+    <text x="0" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Total PRs:</text>
+    <text x="160" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff2a85">18</text>
+    
+    <!-- Issues -->
+    <text x="0" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Total Issues:</text>
+    <text x="160" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffb703">10</text>
+    
+    <!-- Contributed -->
+    <text x="0" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Contributed Repos:</text>
+    <text x="160" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#3b82f6">6</text>
+  </g>
+  
+  <!-- Grade Badge -->
+  <g transform="translate(320, 50)">
+    <circle cx="50" cy="50" r="42" fill="#04060c" stroke="#ff2a85" stroke-width="2" />
+    <text x="50" y="58" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="32" font-weight="800" fill="#ff2a85" filter="drop-shadow(0 0 8px #ff2a85)">
+      S+
+    </text>
+    <text x="50" y="112" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#cbd5e1">
+      GLOBAL RANK
+    </text>
+  </g>
+</svg>
