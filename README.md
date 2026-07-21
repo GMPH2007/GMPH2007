@@ -72,8 +72,9 @@
 *La serpiente come mis contribuciones — se actualiza automáticamente cada 6 horas:*
 
 <p align="center">
-  <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-snake-dark.svg" width="100%" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
