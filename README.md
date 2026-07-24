@@ -11,8 +11,9 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Desarrollador+Web+Full+Stack;Web+Developer;Entusiasta+de+la+IA;Creador+de+ARGOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=00f3ff&center=true&vCenter=true&width=650&lines=Gerson+Misael+Pintado+Huam%C3%A1n;Arquitectura+de+Plataformas+y+TI;Desarrollador+Full+Stack+TI;Especialista+en+Seguridad+Web;1%2C800%2B+Contribuciones+en+GitHub" alt="Typing SVG" />
 </p>
+
 
 <!-- Github Trophies -->
 <p align="center">
@@ -52,7 +53,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128100; Sobre Mí / About Me
+## &#128100; Sobre Mí
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -74,7 +75,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128013; Contribuciones en Juego / Contribution Snake Game
+## &#128013; Juego de Contribuciones (Snake)
 
 *La serpiente come mis contribuciones — se actualiza automáticamente cada 6 horas:*
 
@@ -87,7 +88,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## 🛠️ Stack Tecnológico / Tech Stack
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -111,7 +112,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## 🚀 Proyectos Destacados / Featured Projects
+## 🚀 Proyectos Destacados
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
@@ -163,7 +164,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128202; Actividad y Estadísticas / Activity & Stats
+## &#128202; Actividad y Estadísticas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react" alt="Activity Graph" width="100%" />
