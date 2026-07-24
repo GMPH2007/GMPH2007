@@ -179,4 +179,9 @@
       <img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-streak-custom.svg" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2" style="padding-top: 1rem;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="65%" />
+    </td>
+  </tr>
 </table>
