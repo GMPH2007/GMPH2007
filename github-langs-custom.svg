@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <rect width="450" height="195" rx="15" fill="#0d1324" stroke="#00ff9d" stroke-width="1.5" />
+  
+  <!-- Title -->
+  <text x="30" y="35" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#00ff9d">
+    Gerson Misael's Top Languages
+  </text>
+  
+  <!-- Languages List & Progress Bars -->
+  <g transform="translate(30, 60)">
+    <!-- HTML -->
+    <text x="0" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">HTML</text>
+    <text x="340" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#e34f26">45.7%</text>
+    <rect x="0" y="22" width="370" height="8" rx="4" fill="#1e293b" />
+    <rect x="0" y="22" width="169" height="8" rx="4" fill="#e34f26" filter="drop-shadow(0 0 4px #e34f26)" />
+
+    <!-- CSS -->
+    <text x="0" y="55" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">CSS</text>
+    <text x="340" y="55" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#1572b6">28.4%</text>
+    <rect x="0" y="62" width="370" height="8" rx="4" fill="#1e293b" />
+    <rect x="0" y="62" width="105" height="8" rx="4" fill="#1572b6" filter="drop-shadow(0 0 4px #1572b6)" />
+
+    <!-- JavaScript -->
+    <text x="0" y="95" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">JavaScript</text>
+    <text x="340" y="95" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#f7df1e">25.9%</text>
+    <rect x="0" y="102" width="370" height="8" rx="4" fill="#1e293b" />
+    <rect x="0" y="102" width="96" height="8" rx="4" fill="#f7df1e" filter="drop-shadow(0 0 4px #f7df1e)" />
+  </g>
+</svg>

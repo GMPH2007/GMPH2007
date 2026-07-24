@@ -16,10 +16,9 @@
 
 <!-- Github Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GMPH2007&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="github-profile-trophy" />
-  </a>
+  <img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-trophies-custom.svg" alt="Gerson Misael Trophies" width="100%" />
 </p>
+
 
 
 <!-- Follow Me Badge -->
@@ -181,7 +180,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" colspan="2" style="padding-top: 1rem;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMPH2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="65%" />
+      <img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/main/github-langs-custom.svg" alt="Top Languages" width="60%" />
     </td>
   </tr>
 </table>
