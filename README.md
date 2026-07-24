@@ -14,6 +14,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Desarrollador+Web+Full+Stack;Web+Developer;Entusiasta+de+la+IA;Creador+de+ARGOS" alt="Typing SVG" />
 </p>
 
+<!-- Github Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GMPH2007&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="github-profile-trophy" />
+  </a>
+</p>
+
+
 <!-- Follow Me Badge -->
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=followers">
@@ -80,7 +88,31 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 </p>
 
-## &#128640; Proyectos Destacados / Featured Projects
+## 🛠️ Stack Tecnológico / Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/termux-%23000000.svg?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+</p>
+
+## 🚀 Proyectos Destacados / Featured Projects
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
