@@ -250,27 +250,36 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 📊 Métricas & Estadísticas de Rendimiento
+## 📊 Métricas &amp; Telemetría de Rendimiento • Quantum Engine
 
+<!-- Quantum Performance & Telemetry Matrix HUD -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react&bg_color=090d16&color=00f3ff&line=ff007f&point=00ff9d&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="cyber_telemetry_matrix.svg" width="100%" alt="Quantum Telemetry Matrix HUD" />
 </p>
 
+<!-- Live Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react&bg_color=060a14&color=00f3ff&line=ff0080&point=00ff9d&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<!-- Side-by-Side Live Stats & Streak Cards -->
 <table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="github-stats-custom.svg" alt="GitHub Stats" width="100%" />
+      <img src="github-stats-custom.svg" alt="GitHub Production Metrics" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="github-streak-custom.svg" alt="GitHub Streak Stats" width="100%" />
+      <img src="github-streak-custom.svg" alt="GitHub Streak Momentum" width="100%" />
     </td>
   </tr>
 </table>
 
+<!-- Full-Width Top Languages Matrix -->
 <p align="center">
-  <img src="github-langs-custom.svg" alt="Top Languages" width="100%" />
+  <img src="github-langs-custom.svg" alt="Core Coding Languages" width="100%" />
 </p>
 
+<!-- Full-Width Developer Trophies -->
 <p align="center">
   <img src="github-trophies-custom.svg" alt="Developer Trophies" width="100%" />
 </p>
