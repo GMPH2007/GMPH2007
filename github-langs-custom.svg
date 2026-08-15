@@ -1,29 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
-  <rect width="450" height="195" rx="15" fill="#0d1324" stroke="#00ff9d" stroke-width="1.5" />
-  
-  <!-- Title -->
-  <text x="30" y="35" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#00ff9d">
-    Gerson Misael's Top Languages
-  </text>
-  
-  <!-- Languages List & Progress Bars -->
-  <g transform="translate(30, 60)">
-    <!-- HTML -->
-    <text x="0" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">HTML</text>
-    <text x="340" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#e34f26">45.7%</text>
-    <rect x="0" y="22" width="370" height="8" rx="4" fill="#1e293b" />
-    <rect x="0" y="22" width="169" height="8" rx="4" fill="#e34f26" filter="drop-shadow(0 0 4px #e34f26)" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 190" width="100%" height="100%">
+  <defs>
+    <linearGradient id="langsBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#040711"/>
+    </linearGradient>
+    <linearGradient id="langsBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="50%" stop-color="#00f3ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
 
-    <!-- CSS -->
-    <text x="0" y="55" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">CSS</text>
-    <text x="340" y="55" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#1572b6">28.4%</text>
-    <rect x="0" y="62" width="370" height="8" rx="4" fill="#1e293b" />
-    <rect x="0" y="62" width="105" height="8" rx="4" fill="#1572b6" filter="drop-shadow(0 0 4px #1572b6)" />
+  <style>
+    @keyframes barLoadJS {
+      from { width: 0; }
+      to { width: 340px; }
+    }
+    @keyframes barLoadHTML {
+      from { width: 0; }
+      to { width: 280px; }
+    }
+    @keyframes barLoadCSS {
+      from { width: 0; }
+      to { width: 140px; }
+    }
+    @keyframes barLoadPy {
+      from { width: 0; }
+      to { width: 100px; }
+    }
+    .bar-js { animation: barLoadJS 2s ease-out forwards; }
+    .bar-html { animation: barLoadHTML 2s ease-out forwards; }
+    .bar-css { animation: barLoadCSS 2s ease-out forwards; }
+    .bar-py { animation: barLoadPy 2s ease-out forwards; }
+    .font-sans {
+      font-family: 'Segoe UI', -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    }
+    .font-mono {
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+    }
+  </style>
 
+  <!-- Card Background -->
+  <rect x="2" y="2" width="846" height="186" rx="14" fill="url(#langsBgGrad)" stroke="url(#langsBorder)" stroke-width="1.8"/>
+
+  <!-- Card Header -->
+  <g transform="translate(26, 32)">
+    <circle cx="6" cy="-4" r="5" fill="#00ff9d"/>
+    <text x="20" y="0" class="font-sans" font-size="16" font-weight="800" fill="#00ff9d" letter-spacing="0.5">
+      LENGUAJES &amp; TECNOLOGÍAS MÁS USADAS
+    </text>
+  </g>
+
+  <!-- Divider line -->
+  <line x1="26" y1="46" x2="824" y2="46" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Left Column: JavaScript & Python -->
+  <g transform="translate(26, 68)" class="font-sans">
     <!-- JavaScript -->
-    <text x="0" y="95" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">JavaScript</text>
-    <text x="340" y="95" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#f7df1e">25.9%</text>
-    <rect x="0" y="102" width="370" height="8" rx="4" fill="#1e293b" />
-    <rect x="0" y="102" width="96" height="8" rx="4" fill="#f7df1e" filter="drop-shadow(0 0 4px #f7df1e)" />
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="4" fill="#f7df1e"/>
+      <text x="18" y="10" font-size="13" font-weight="700" fill="#f1f5f9">JavaScript</text>
+      <text x="345" y="10" class="font-mono" font-size="12.5" font-weight="800" fill="#f7df1e">42.5%</text>
+      <rect x="0" y="20" width="380" height="9" rx="4.5" fill="#1e293b"/>
+      <rect x="0" y="20" width="340" height="9" rx="4.5" fill="#f7df1e" class="bar-js" filter="drop-shadow(0 0 6px rgba(247, 223, 30, 0.6))"/>
+    </g>
+
+    <!-- Python & Backend -->
+    <g transform="translate(0, 50)">
+      <circle cx="6" cy="6" r="4" fill="#3b82f6"/>
+      <text x="18" y="10" font-size="13" font-weight="700" fill="#f1f5f9">Python &amp; PHP / Backend</text>
+      <text x="345" y="10" class="font-mono" font-size="12.5" font-weight="800" fill="#38bdf8">18.2%</text>
+      <rect x="0" y="20" width="380" height="9" rx="4.5" fill="#1e293b"/>
+      <rect x="0" y="20" width="145" height="9" rx="4.5" fill="#38bdf8" class="bar-py" filter="drop-shadow(0 0 6px rgba(56, 189, 248, 0.6))"/>
+    </g>
+  </g>
+
+  <!-- Right Column: HTML5 & CSS3 -->
+  <g transform="translate(444, 68)" class="font-sans">
+    <!-- HTML5 -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="4" fill="#e34f26"/>
+      <text x="18" y="10" font-size="13" font-weight="700" fill="#f1f5f9">HTML5</text>
+      <text x="345" y="10" class="font-mono" font-size="12.5" font-weight="800" fill="#e34f26">26.8%</text>
+      <rect x="0" y="20" width="380" height="9" rx="4.5" fill="#1e293b"/>
+      <rect x="0" y="20" width="214" height="9" rx="4.5" fill="#e34f26" class="bar-html" filter="drop-shadow(0 0 6px rgba(227, 79, 38, 0.6))"/>
+    </g>
+
+    <!-- CSS3 & Styling -->
+    <g transform="translate(0, 50)">
+      <circle cx="6" cy="6" r="4" fill="#00f3ff"/>
+      <text x="18" y="10" font-size="13" font-weight="700" fill="#f1f5f9">CSS3 / Tailwind / UI</text>
+      <text x="345" y="10" class="font-mono" font-size="12.5" font-weight="800" fill="#00f3ff">12.5%</text>
+      <rect x="0" y="20" width="380" height="9" rx="4.5" fill="#1e293b"/>
+      <rect x="0" y="20" width="100" height="9" rx="4.5" fill="#00f3ff" class="bar-css" filter="drop-shadow(0 0 6px rgba(0, 243, 255, 0.6))"/>
+    </g>
   </g>
 </svg>
