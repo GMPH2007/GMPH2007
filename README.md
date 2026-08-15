@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=250&section=header&text=Gerson%20Misael%20Pintado&fontSize=46&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Software%20Creator%20%E2%80%A2%20Web%20Security&descAlignY=62&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=260&section=header&text=Gerson%20Misael%20Pintado&fontSize=48&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Software%20Creator%20%E2%80%A2%20Web%20Security&descAlignY=62&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Dynamic Typing Subtitle -->
@@ -43,6 +43,16 @@
 </p>
 
 <!-- Cyber Glow Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
+</p>
+
+## 🏆 Premios & Logros Oficiales • GitHub Elite Awards
+
+<p align="center">
+  <img src="github_achievements_showcase.svg" width="100%" alt="GitHub Official Achievements & Awards Showcase" />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
