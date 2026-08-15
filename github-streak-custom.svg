@@ -1,36 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
-  <rect width="450" height="195" rx="15" fill="#0d1324" stroke="#a855f7" stroke-width="1.5" />
-  
-  <!-- Title -->
-  <text x="30" y="35" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#a855f7">
-    Gerson Misael's Contribution Streaks
-  </text>
-  
-  <!-- Stats Items -->
-  <g transform="translate(30, 60)">
-    <!-- Total Contributions -->
-    <text x="0" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Total Contributions:</text>
-    <text x="170" y="15" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#00ff9d">1,862+</text>
-    
-    <!-- Current Streak -->
-    <text x="0" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Current Streak:</text>
-    <text x="170" y="40" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#00f3ff">42 Days</text>
-    
-    <!-- Longest Streak -->
-    <text x="0" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Longest Streak:</text>
-    <text x="170" y="65" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffb703">56 Days</text>
-    
-    <!-- Active Days -->
-    <text x="0" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#cbd5e1">Active Days Ratio:</text>
-    <text x="170" y="90" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff2a85">94%</text>
-  </g>
-  
-  <!-- Fire Streak Icon -->
-  <g transform="translate(330, 50)">
-    <path d="M25 15 C25 15 35 25 35 45 C35 60 25 70 25 70 C25 70 15 60 15 45 C15 25 25 15 25 15 Z" fill="#ff7a00" stroke="#ffb703" stroke-width="2" filter="drop-shadow(0 0 10px #ff7a00)" />
-    <path d="M25 30 C25 30 30 38 30 48 C30 55 25 60 25 60 C25 60 20 55 20 48 C20 38 25 30 25 30 Z" fill="#ffb703" />
-    <text x="25" y="96" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#cbd5e1">
-      ON FIRE!
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="streakBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#140b22"/>
+      <stop offset="100%" stop-color="#040711"/>
+    </linearGradient>
+    <linearGradient id="purpleBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#fb8500"/>
+    </linearGradient>
+    <linearGradient id="fireGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#ff7a00"/>
+      <stop offset="100%" stop-color="#ffdd00"/>
+    </linearGradient>
+    <filter id="glowFire" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes firePulse {
+      0%, 100% { transform: scale(1) rotate(0deg); filter: drop-shadow(0 0 10px #ff7a00); }
+      50% { transform: scale(1.1) rotate(2deg); filter: drop-shadow(0 0 24px #ff0055); }
+    }
+    .fire-badge {
+      transform-origin: 345px 115px;
+      animation: firePulse 2.5s ease-in-out infinite;
+    }
+    .font-sans {
+      font-family: 'Segoe UI', -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    }
+    .font-mono {
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="416" height="216" rx="14" fill="url(#streakBgGrad)" stroke="url(#purpleBorder)" stroke-width="1.8"/>
+
+  <!-- Card Header -->
+  <g transform="translate(24, 32)">
+    <circle cx="6" cy="-4" r="5" fill="#a855f7"/>
+    <text x="20" y="0" class="font-sans" font-size="16" font-weight="800" fill="#c084fc" letter-spacing="0.5">
+      RACHA DE ACTIVIDAD
     </text>
   </g>
+
+  <!-- Divider line -->
+  <line x1="24" y1="46" x2="396" y2="46" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Streak Stats Grid -->
+  <g transform="translate(24, 75)" class="font-sans">
+    <!-- Total Contributions -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="-4" r="3" fill="#00ff9d"/>
+      <text x="18" y="0" font-size="13" font-weight="600" fill="#94a3b8">Contribuciones:</text>
+      <text x="155" y="0" class="font-mono" font-size="13.5" font-weight="800" fill="#00ff9d">1,860+</text>
+    </g>
+
+    <!-- Current Streak -->
+    <g transform="translate(0, 30)">
+      <circle cx="6" cy="-4" r="3" fill="#00f3ff"/>
+      <text x="18" y="0" font-size="13" font-weight="600" fill="#94a3b8">Racha Actual:</text>
+      <text x="155" y="0" class="font-mono" font-size="13.5" font-weight="800" fill="#00f3ff">48 Días 🔥</text>
+    </g>
+
+    <!-- Longest Streak -->
+    <g transform="translate(0, 60)">
+      <circle cx="6" cy="-4" r="3" fill="#ffb703"/>
+      <text x="18" y="0" font-size="13" font-weight="600" fill="#94a3b8">Mayor Racha:</text>
+      <text x="155" y="0" class="font-mono" font-size="13.5" font-weight="800" fill="#ffb703">64 Días</text>
+    </g>
+
+    <!-- Efficiency Ratio -->
+    <g transform="translate(0, 90)">
+      <circle cx="6" cy="-4" r="3" fill="#ff007f"/>
+      <text x="18" y="0" font-size="13" font-weight="600" fill="#94a3b8">Actividad Diaria:</text>
+      <text x="155" y="0" class="font-mono" font-size="13.5" font-weight="800" fill="#ff007f">96% Activo</text>
+    </g>
+  </g>
+
+  <!-- Fire Flame Badge (Right Side) -->
+  <g class="fire-badge">
+    <circle cx="345" cy="115" r="32" fill="#090514" stroke="#ff7a00" stroke-width="1.8"/>
+    <!-- Flame Path -->
+    <path d="M 345 93 C 345 93 358 106 358 122 C 358 132 350 138 345 138 C 340 138 332 132 332 122 C 332 108 345 93 345 93 Z" fill="url(#fireGrad)" filter="url(#glowFire)"/>
+    <path d="M 345 108 C 345 108 351 116 351 125 C 351 131 347 135 345 135 C 343 135 339 131 339 125 C 339 117 345 108 345 108 Z" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <text x="345" y="172" text-anchor="middle" class="font-mono" font-size="9" font-weight="800" fill="#ffb703" letter-spacing="1">
+    ON FIRE!
+  </text>
 </svg>
