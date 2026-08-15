@@ -47,10 +47,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 🏆 Premios & Logros Oficiales • GitHub Elite Awards
+## 🏛️ Hall of Fame &amp; Premios Oficiales • GitHub Legacy Vault
 
 <p align="center">
-  <img src="github_achievements_showcase.svg" width="100%" alt="GitHub Official Achievements & Awards Showcase" />
+  <img src="github_hall_of_fame_vault.svg" width="100%" alt="GitHub Hall of Fame and Legacy Awards Vault" />
 </p>
 
 <p align="center">
