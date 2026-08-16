@@ -37,6 +37,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
+<!-- Interactive Community Growth & Follow Hub -->
+<p align="center">
+  <a href="https://github.com/GMPH2007?tab=followers">
+    <img src="community_growth_hub.svg" width="100%" alt="Community Growth Hub - Follow GMPH2007" />
+  </a>
+</p>
+
+<!-- Cyber Glow Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
+</p>
+
 <!-- Cyber Terminal Hologram -->
 <p align="center">
   <img src="terminal_hacker_animated.svg" width="100%" alt="Cyber Terminal GMPH2007" />
@@ -295,11 +307,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/GMPH2007?tab=followers">
+    <img src="https://img.shields.io/badge/Seguir%20en%20GitHub-%2B1%20Follow-00f3ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="Follow GitHub" />
+  </a>
   <a href="mailto:misaelpintado7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-misaelpintado7%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
-  </a>
-  <a href="https://github.com/GMPH2007">
-    <img src="https://img.shields.io/badge/GitHub-GMPH2007-00f3ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" />
   </a>
   <a href="https://github.com/GMPH2007/GMPH2007/issues">
     <img src="https://img.shields.io/badge/Contacto-Colaboraci%C3%B3n%20TI-00c853?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Colaboración" />
