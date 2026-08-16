@@ -2,12 +2,15 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
   push:
     branches:
       - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -31,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore(snake): update contribution snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
