@@ -1,44 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#060a14"/>
-      <stop offset="50%" stop-color="#0c1222"/>
-      <stop offset="100%" stop-color="#03050a"/>
-    </linearGradient>
-
-    <!-- Cyber Border Gradient -->
-    <linearGradient id="hudBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f3ff"/>
-      <stop offset="35%" stop-color="#7928ca"/>
-      <stop offset="70%" stop-color="#ff0080"/>
-      <stop offset="100%" stop-color="#00ff9d"/>
-    </linearGradient>
-
-    <!-- Radar Sweep Gradient -->
-    <linearGradient id="radarSweepGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#00f3ff" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Glow Filters -->
-    <filter id="glowCyanHud" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="glowPinkHud" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <style>
+﻿<!-- PROTECTED ASSET (C) 2024-2026 GERSON MISAEL PINTADO HUAMAN. ALL RIGHTS RESERVED. UNAUTHORIZED REPRODUCTION, FORKING OR CODE EXTRACTION PROHIBITED. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%"><defs><!-- Background Gradient --><linearGradient id="hudBg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#060a14"/><stop offset="50%" stop-color="#0c1222"/><stop offset="100%" stop-color="#03050a"/></linearGradient><!-- Cyber Border Gradient --><linearGradient id="hudBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00f3ff"/><stop offset="35%" stop-color="#7928ca"/><stop offset="70%" stop-color="#ff0080"/><stop offset="100%" stop-color="#00ff9d"/></linearGradient><!-- Radar Sweep Gradient --><linearGradient id="radarSweepGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00f3ff" stop-opacity="0.8"/><stop offset="100%" stop-color="#00f3ff" stop-opacity="0"/></linearGradient><!-- Glow Filters --><filter id="glowCyanHud" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="glowPinkHud" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><style>
     @keyframes radarSpin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
@@ -71,169 +32,21 @@
     .font-mono {
       font-family: 'Fira Code', 'Cascadia Code', monospace;
     }
-  </style>
-
-  <!-- Container Box -->
-  <g class="hud-card">
-    <rect x="2" y="2" width="846" height="356" rx="16" fill="url(#hudBg)" stroke="url(#hudBorderGrad)" stroke-width="2"/>
-
-    <!-- Subtle Tech Grid Lines -->
-    <g opacity="0.12" stroke="#00f3ff" stroke-width="1">
-      <line x1="30" y1="50" x2="820" y2="50"/>
-      <line x1="30" y1="120" x2="820" y2="120"/>
-      <line x1="30" y1="190" x2="820" y2="190"/>
-      <line x1="30" y1="260" x2="820" y2="260"/>
-      <line x1="30" y1="310" x2="820" y2="310"/>
-      <line x1="280" y1="50" x2="280" y2="310"/>
-      <line x1="570" y1="50" x2="570" y2="310"/>
-    </g>
-
-    <!-- Header Bar -->
-    <g transform="translate(26, 32)">
-      <circle cx="6" cy="-4" r="5" fill="#00f3ff" filter="url(#glowCyanHud)"/>
-      <text x="20" y="1" class="font-mono" font-size="14" font-weight="900" fill="#00f3ff" letter-spacing="1">
+  </style><!-- Container Box --><g class="hud-card"><rect x="2" y="2" width="846" height="356" rx="16" fill="url(#hudBg)" stroke="url(#hudBorderGrad)" stroke-width="2"/><!-- Subtle Tech Grid Lines --><g opacity="0.12" stroke="#00f3ff" stroke-width="1"><line x1="30" y1="50" x2="820" y2="50"/><line x1="30" y1="120" x2="820" y2="120"/><line x1="30" y1="190" x2="820" y2="190"/><line x1="30" y1="260" x2="820" y2="260"/><line x1="30" y1="310" x2="820" y2="310"/><line x1="280" y1="50" x2="280" y2="310"/><line x1="570" y1="50" x2="570" y2="310"/></g><!-- Header Bar --><g transform="translate(26, 32)"><circle cx="6" cy="-4" r="5" fill="#00f3ff" filter="url(#glowCyanHud)"/><text x="20" y="1" class="font-mono" font-size="14" font-weight="900" fill="#00f3ff" letter-spacing="1">
         ⚡ GMPH2007 // QUANTUM PERFORMANCE &amp; TELEMETRY MATRIX
-      </text>
-      <rect x="650" y="-14" width="140" height="22" rx="11" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1"/>
-      <text x="720" y="1" text-anchor="middle" class="font-mono" font-size="10" font-weight="bold" fill="#00ff9d" letter-spacing="1">
+      </text><rect x="650" y="-14" width="140" height="22" rx="11" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1"/><text x="720" y="1" text-anchor="middle" class="font-mono" font-size="10" font-weight="bold" fill="#00ff9d" letter-spacing="1">
         LIVE PROTOCOL
-      </text>
-    </g>
-
-    <!-- Top Divider -->
-    <line x1="26" y1="46" x2="824" y2="46" stroke="#1e293b" stroke-width="1.2"/>
-
-    <!-- ================= LEFT PANEL: SYSTEM EFFICIENCY GAUGE ================= -->
-    <g transform="translate(30, 60)" class="font-sans">
-      <text x="0" y="15" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
+      </text></g><!-- Top Divider --><line x1="26" y1="46" x2="824" y2="46" stroke="#1e293b" stroke-width="1.2"/><!-- ================= LEFT PANEL: SYSTEM EFFICIENCY GAUGE ================= --><g transform="translate(30, 60)" class="font-sans"><text x="0" y="15" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
         PRODUCTION VELOCITY
-      </text>
-
-      <!-- Circular Radial Gauge -->
-      <g transform="translate(110, 85)">
-        <!-- Outer Track -->
-        <circle cx="0" cy="0" r="54" fill="none" stroke="#1e293b" stroke-width="8"/>
-        <!-- Active Progress Arc (98.4%) -->
-        <circle cx="0" cy="0" r="54" fill="none" stroke="#00f3ff" stroke-width="8" stroke-dasharray="310 340" stroke-linecap="round" filter="url(#glowCyanHud)"/>
-        <!-- Inner Glow Circle -->
-        <circle cx="0" cy="0" r="42" fill="#090f1d" stroke="#334155" stroke-width="1"/>
-        <text x="0" y="6" text-anchor="middle" class="font-mono" font-size="20" font-weight="900" fill="#ffffff">
-          98.4<tspan font-size="12" fill="#00f3ff">%</tspan>
-        </text>
-        <text x="0" y="24" text-anchor="middle" class="font-mono" font-size="8.5" font-weight="700" fill="#00ff9d">
+      </text><!-- Circular Radial Gauge --><g transform="translate(110, 85)"><!-- Outer Track --><circle cx="0" cy="0" r="54" fill="none" stroke="#1e293b" stroke-width="8"/><!-- Active Progress Arc (98.4%) --><circle cx="0" cy="0" r="54" fill="none" stroke="#00f3ff" stroke-width="8" stroke-dasharray="310 340" stroke-linecap="round" filter="url(#glowCyanHud)"/><!-- Inner Glow Circle --><circle cx="0" cy="0" r="42" fill="#090f1d" stroke="#334155" stroke-width="1"/><text x="0" y="6" text-anchor="middle" class="font-mono" font-size="20" font-weight="900" fill="#ffffff">
+          98.4<tspan font-size="12" fill="#00f3ff">%</tspan></text><text x="0" y="24" text-anchor="middle" class="font-mono" font-size="8.5" font-weight="700" fill="#00ff9d">
           OPTIMAL SPEED
-        </text>
-      </g>
-
-      <!-- Mini KPI Bars -->
-      <g transform="translate(0, 160)">
-        <text x="0" y="10" font-size="11" font-weight="700" fill="#cbd5e1">Architecture Grade:</text>
-        <text x="210" y="10" class="font-mono" font-size="11" font-weight="800" fill="#ff007f">TIER AAA+</text>
-        <rect x="0" y="16" width="220" height="5" rx="2.5" fill="#1e293b"/>
-        <rect x="0" y="16" width="210" height="5" rx="2.5" fill="#ff007f" filter="url(#glowPinkHud)"/>
-
-        <text x="0" y="42" font-size="11" font-weight="700" fill="#cbd5e1">Deployment Reliability:</text>
-        <text x="210" y="42" class="font-mono" font-size="11" font-weight="800" fill="#00ff9d">100.0%</text>
-        <rect x="0" y="48" width="220" height="5" rx="2.5" fill="#1e293b"/>
-        <rect x="0" y="48" width="220" height="5" rx="2.5" fill="#00ff9d"/>
-      </g>
-    </g>
-
-    <!-- ================= CENTER PANEL: RADAR CAPABILITY MATRIX ================= -->
-    <g transform="translate(290, 60)" class="font-sans">
-      <text x="135" y="15" text-anchor="middle" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
+        </text></g><!-- Mini KPI Bars --><g transform="translate(0, 160)"><text x="0" y="10" font-size="11" font-weight="700" fill="#cbd5e1">Architecture Grade:</text><text x="210" y="10" class="font-mono" font-size="11" font-weight="800" fill="#ff007f">TIER AAA+</text><rect x="0" y="16" width="220" height="5" rx="2.5" fill="#1e293b"/><rect x="0" y="16" width="210" height="5" rx="2.5" fill="#ff007f" filter="url(#glowPinkHud)"/><text x="0" y="42" font-size="11" font-weight="700" fill="#cbd5e1">Deployment Reliability:</text><text x="210" y="42" class="font-mono" font-size="11" font-weight="800" fill="#00ff9d">100.0%</text><rect x="0" y="48" width="220" height="5" rx="2.5" fill="#1e293b"/><rect x="0" y="48" width="220" height="5" rx="2.5" fill="#00ff9d"/></g></g><!-- ================= CENTER PANEL: RADAR CAPABILITY MATRIX ================= --><g transform="translate(290, 60)" class="font-sans"><text x="135" y="15" text-anchor="middle" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
         SKILL RADAR // 5-AXIS DOMAINS
-      </text>
-
-      <!-- Radar Display Center (425, 175 in global -> 135, 115 in local group) -->
-      <g transform="translate(135, 115)">
-        <!-- Radar Grid Rings -->
-        <circle cx="0" cy="0" r="75" fill="none" stroke="#1e293b" stroke-width="1"/>
-        <circle cx="0" cy="0" r="50" fill="none" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/>
-        <circle cx="0" cy="0" r="25" fill="none" stroke="#1e293b" stroke-width="1"/>
-
-        <!-- Radar Axis Lines -->
-        <line x1="0" y1="-75" x2="0" y2="75" stroke="#334155" stroke-width="1"/>
-        <line x1="-75" y1="0" x2="75" y2="0" stroke="#334155" stroke-width="1"/>
-
-        <!-- Rotating Radar Sweep Beam -->
-        <g class="radar-beam">
-          <path d="M 0 0 L 75 0 A 75 75 0 0 1 0 75 Z" fill="url(#radarSweepGrad)" opacity="0.4"/>
-          <line x1="0" y1="0" x2="75" y2="0" stroke="#00f3ff" stroke-width="2"/>
-        </g>
-
-        <!-- Skill Polygon Filled Shape -->
-        <!-- Points: Top(Frontend), TopRight(Backend), BottomRight(Security), BottomLeft(Automation), TopLeft(UI/UX) -->
-        <polygon points="0,-68 64,-20 48,58 -55,52 -60,-22" fill="#00f3ff" fill-opacity="0.2" stroke="#00f3ff" stroke-width="2"/>
-
-        <!-- Nodes on Polygon -->
-        <circle cx="0" cy="-68" r="4" fill="#00ff9d" class="node-p"/>
-        <circle cx="64" cy="-20" r="4" fill="#00ff9d" class="node-p"/>
-        <circle cx="48" cy="58" r="4" fill="#00ff9d" class="node-p"/>
-        <circle cx="-55" cy="52" r="4" fill="#00ff9d" class="node-p"/>
-        <circle cx="-60" cy="-22" r="4" fill="#00ff9d" class="node-p"/>
-
-        <!-- Domain Labels -->
-        <text x="0" y="-82" text-anchor="middle" class="font-mono" font-size="9" font-weight="bold" fill="#00f3ff">FRONTEND (98%)</text>
-        <text x="75" y="-16" text-anchor="start" class="font-mono" font-size="9" font-weight="bold" fill="#ffb703">BACKEND (95%)</text>
-        <text x="54" y="74" text-anchor="start" class="font-mono" font-size="9" font-weight="bold" fill="#ff007f">SECURITY (96%)</text>
-        <text x="-60" y="74" text-anchor="end" class="font-mono" font-size="9" font-weight="bold" fill="#00ff9d">BOTS (99%)</text>
-        <text x="-75" y="-16" text-anchor="end" class="font-mono" font-size="9" font-weight="bold" fill="#c084fc">UI/3D (92%)</text>
-      </g>
-    </g>
-
-    <!-- ================= RIGHT PANEL: LIVE SYSTEM TELEMETRY ================= -->
-    <g transform="translate(585, 60)" class="font-sans">
-      <text x="0" y="15" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
+      </text><!-- Radar Display Center (425, 175 in global -> 135, 115 in local group) --><g transform="translate(135, 115)"><!-- Radar Grid Rings --><circle cx="0" cy="0" r="75" fill="none" stroke="#1e293b" stroke-width="1"/><circle cx="0" cy="0" r="50" fill="none" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><circle cx="0" cy="0" r="25" fill="none" stroke="#1e293b" stroke-width="1"/><!-- Radar Axis Lines --><line x1="0" y1="-75" x2="0" y2="75" stroke="#334155" stroke-width="1"/><line x1="-75" y1="0" x2="75" y2="0" stroke="#334155" stroke-width="1"/><!-- Rotating Radar Sweep Beam --><g class="radar-beam"><path d="M 0 0 L 75 0 A 75 75 0 0 1 0 75 Z" fill="url(#radarSweepGrad)" opacity="0.4"/><line x1="0" y1="0" x2="75" y2="0" stroke="#00f3ff" stroke-width="2"/></g><!-- Skill Polygon Filled Shape --><!-- Points: Top(Frontend), TopRight(Backend), BottomRight(Security), BottomLeft(Automation), TopLeft(UI/UX) --><polygon points="0,-68 64,-20 48,58 -55,52 -60,-22" fill="#00f3ff" fill-opacity="0.2" stroke="#00f3ff" stroke-width="2"/><!-- Nodes on Polygon --><circle cx="0" cy="-68" r="4" fill="#00ff9d" class="node-p"/><circle cx="64" cy="-20" r="4" fill="#00ff9d" class="node-p"/><circle cx="48" cy="58" r="4" fill="#00ff9d" class="node-p"/><circle cx="-55" cy="52" r="4" fill="#00ff9d" class="node-p"/><circle cx="-60" cy="-22" r="4" fill="#00ff9d" class="node-p"/><!-- Domain Labels --><text x="0" y="-82" text-anchor="middle" class="font-mono" font-size="9" font-weight="bold" fill="#00f3ff">FRONTEND (98%)</text><text x="75" y="-16" text-anchor="start" class="font-mono" font-size="9" font-weight="bold" fill="#ffb703">BACKEND (95%)</text><text x="54" y="74" text-anchor="start" class="font-mono" font-size="9" font-weight="bold" fill="#ff007f">SECURITY (96%)</text><text x="-60" y="74" text-anchor="end" class="font-mono" font-size="9" font-weight="bold" fill="#00ff9d">BOTS (99%)</text><text x="-75" y="-16" text-anchor="end" class="font-mono" font-size="9" font-weight="bold" fill="#c084fc">UI/3D (92%)</text></g></g><!-- ================= RIGHT PANEL: LIVE SYSTEM TELEMETRY ================= --><g transform="translate(585, 60)" class="font-sans"><text x="0" y="15" font-size="12" font-weight="800" fill="#94a3b8" letter-spacing="1">
         LIVE ENGINE METRICS
-      </text>
-
-      <!-- Stat Cards -->
-      <g transform="translate(0, 30)">
-        <rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/>
-        <text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">TOTAL COMMITS</text>
-        <text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#00ff9d">1,850+ VERIFIED</text>
-        <circle cx="215" cy="21" r="5" fill="#00ff9d" filter="url(#glowCyanHud)"/>
-      </g>
-
-      <g transform="translate(0, 80)">
-        <rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/>
-        <text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">ACTIVE REPOSITORIES</text>
-        <text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#00f3ff">16 PROJECTS</text>
-        <circle cx="215" cy="21" r="5" fill="#00f3ff"/>
-      </g>
-
-      <g transform="translate(0, 130)">
-        <rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/>
-        <text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">CRYPTOGRAPHIC DEFENSE</text>
-        <text x="12" y="34" class="font-mono" font-size="14" font-weight="900" fill="#ff007f">SHA-256 + JWT</text>
-        <circle cx="215" cy="21" r="5" fill="#ff007f"/>
-      </g>
-
-      <g transform="translate(0, 180)">
-        <rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/>
-        <text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">UPTIME &amp; CONSISTENCY</text>
-        <text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#ffb703">99.98% ONLINE</text>
-        <circle cx="215" cy="21" r="5" fill="#ffb703"/>
-      </g>
-    </g>
-
-    <!-- ================= BOTTOM RUNTIME METRICS TICKER ================= -->
-    <g transform="translate(26, 320)" class="font-mono">
-      <rect x="0" y="0" width="798" height="26" rx="6" fill="#090f1e" stroke="#1e293b" stroke-width="1"/>
-      <circle cx="15" cy="13" r="3.5" fill="#00ff9d"/>
-      <text x="26" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
-        SYS_STATUS: <tspan fill="#00ff9d">100% OPERATIONAL</tspan>
-      </text>
-      <text x="210" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
-        REGION: <tspan fill="#00f3ff">PERÚ (LATAM)</tspan>
-      </text>
-      <text x="360" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
-        ACTIVE CORE: <tspan fill="#ff007f">ARGOS + SPIDEY TELEMETRY</tspan>
-      </text>
-      <text x="640" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
-        RANK: <tspan fill="#ffb703">GLOBAL ELITE S+</tspan>
-      </text>
-    </g>
-  </g>
-</svg>
+      </text><!-- Stat Cards --><g transform="translate(0, 30)"><rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/><text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">TOTAL COMMITS</text><text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#00ff9d">1,850+ VERIFIED</text><circle cx="215" cy="21" r="5" fill="#00ff9d" filter="url(#glowCyanHud)"/></g><g transform="translate(0, 80)"><rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/><text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">ACTIVE REPOSITORIES</text><text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#00f3ff">16 PROJECTS</text><circle cx="215" cy="21" r="5" fill="#00f3ff"/></g><g transform="translate(0, 130)"><rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/><text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">CRYPTOGRAPHIC DEFENSE</text><text x="12" y="34" class="font-mono" font-size="14" font-weight="900" fill="#ff007f">SHA-256 + JWT</text><circle cx="215" cy="21" r="5" fill="#ff007f"/></g><g transform="translate(0, 180)"><rect width="235" height="42" rx="8" fill="#090f1d" stroke="#1e293b" stroke-width="1"/><text x="12" y="18" font-size="10.5" font-weight="600" fill="#94a3b8">UPTIME &amp; CONSISTENCY</text><text x="12" y="34" class="font-mono" font-size="15" font-weight="900" fill="#ffb703">99.98% ONLINE</text><circle cx="215" cy="21" r="5" fill="#ffb703"/></g></g><!-- ================= BOTTOM RUNTIME METRICS TICKER ================= --><g transform="translate(26, 320)" class="font-mono"><rect x="0" y="0" width="798" height="26" rx="6" fill="#090f1e" stroke="#1e293b" stroke-width="1"/><circle cx="15" cy="13" r="3.5" fill="#00ff9d"/><text x="26" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
+        SYS_STATUS: <tspan fill="#00ff9d">100% OPERATIONAL</tspan></text><text x="210" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
+        REGION: <tspan fill="#00f3ff">PERÚ (LATAM)</tspan></text><text x="360" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
+        ACTIVE CORE: <tspan fill="#ff007f">ARGOS + SPIDEY TELEMETRY</tspan></text><text x="640" y="17" font-size="10" font-weight="bold" fill="#cbd5e1">
+        RANK: <tspan fill="#ffb703">GLOBAL ELITE S+</tspan></text></g></g></svg>
