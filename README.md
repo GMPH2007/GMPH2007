@@ -1,6 +1,6 @@
 <!-- 
 ================================================================================
-[ ⚡ GMPH2007 // CYBERNETIC DEVELOPER CORE PROFILE - PROTECTED ASSET ]
+[ ⚡ GMPH2007 // CYBERNETIC DEVELOPER CORE PROFILE - MULTILINGUAL EDITION ]
 ================================================================================
 © 2024-2026 Gerson Misael Pintado Huamán. ALL RIGHTS RESERVED.
 PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
@@ -10,6 +10,32 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 <p align="center">
   <a href="https://github.com/GMPH2007">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=240&section=header&text=Gerson%20Misael%20Pintado&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Creator%20%E2%80%A2%20Web%20Security&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+  </a>
+</p>
+
+<!-- 🌐 MULTILINGUAL INSTANT TRANSLATOR BAR -->
+<p align="center">
+  <strong>🌍 Select Language / Selecciona tu Idioma / 言語を選択 / 选择语言:</strong><br />
+  <a href="https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/Espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-00f3ff?style=for-the-badge&labelColor=0d1117" alt="Español" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/English-%F0%9F%87%BA%F0%9F%87%B8-38bdf8?style=for-the-badge&labelColor=0d1117" alt="English" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=pt&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/Portugu%C3%AAs-%F0%9F%87%A7%F0%9F%87%B7-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Português" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=fr&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/Fran%C3%A7ais-%F0%9F%87%AB%F0%9F%87%B7-ff007f?style=for-the-badge&labelColor=0d1117" alt="Français" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=de&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/Deutsch-%F0%9F%87%A9%F0%9F%87%AA-ffb703?style=for-the-badge&labelColor=0d1117" alt="Deutsch" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=ja&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%F0%9F%87%AF%F0%9F%87%B5-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" />
+  </a>
+  <a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007">
+    <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%F0%9F%87%A8%F0%9F%87%B3-ff3366?style=for-the-badge&labelColor=0d1117" alt="中文" />
   </a>
 </p>
 
@@ -82,7 +108,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 👤 Sobre Mí • About Me
+## 👤 Sobre Mí • Multilingual Profile / About Me
 
 <p align="center">
   <a href="https://github.com/GMPH2007">
@@ -95,18 +121,95 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
   <sub>🚀 Full-Stack Web Developer &amp; Security Architect • Sullana, Piura, Perú 🇵🇪</sub>
 </p>
 
-> 💡 **Misión:** Desarrollar ecosistemas web escalables y de alto impacto: desde plataformas de prevención de desastres y sistemas educativos institucionales, hasta telemetría interactiva Stark Tech y suites de automatización.
+<!-- 🌐 COLLAPSIBLE NATIVE MULTILINGUAL BIOS -->
 
-* 🎯 **Especialidad:** Desarrollo Full-Stack, Arquitectura Web y UI/UX Reactiva.
-* 🔐 **Ciberseguridad Web:** Cifrado SHA-256, autenticación JWT blindada y sesiones seguras.
-* ⚡ **Enfoque:** Rendimiento extremo, código limpio y soluciones tecnológicas de vanguardia.
-* 📫 **Contacto:** [`misaelpintado7@gmail.com`](mailto:misaelpintado7@gmail.com)
+<details open>
+  <summary><strong>🇪🇸 Español (Original)</strong></summary><br />
+  <p>
+    🚀 ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web y arquitecto de software de Piura, Perú. Me apasiona crear ecosistemas digitales de alto impacto: desde plataformas de prevención de desastres naturales y sistemas educativos, hasta interfaces Stark Tech con telemetría interactiva y herramientas de automatización.
+  </p>
+  <ul>
+    <li>🎯 <strong>Especialidad:</strong> Desarrollo Full-Stack, Arquitectura Web y UI/UX Reactiva.</li>
+    <li>🔐 <strong>Ciberseguridad Web:</strong> Cifrado SHA-256, autenticación JWT blindada y sesiones seguras.</li>
+    <li>⚡ <strong>Enfoque:</strong> Rendimiento extremo, código limpio y soluciones tecnológicas escalables.</li>
+    <li>📫 <strong>Contacto:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇺🇸 English (International Profile)</strong></summary><br />
+  <p>
+    🚀 Hello world! I am <strong>Gerson Misael Pintado Huamán</strong>, a Full-Stack Web Developer &amp; Security Architect based in Piura, Peru 🇵🇪. I specialize in building mission-critical web applications: from disaster prevention IoT systems and educational intranets, to Stark Tech interactive telemetry and automation suites.
+  </p>
+  <ul>
+    <li>🎯 <strong>Core Expertise:</strong> Full-Stack Engineering, Web Architecture &amp; Reactive UI/UX.</li>
+    <li>🔐 <strong>Web Security:</strong> SHA-256 Cryptographic Hashing, JWT Authentication &amp; Hardened Sessions.</li>
+    <li>⚡ <strong>Philosophy:</strong> High performance, clean scalable architecture, and impactful digital solutions.</li>
+    <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇧🇷 Português (Brasil &amp; Portugal)</strong></summary><br />
+  <p>
+    🚀 Olá! Sou <strong>Gerson Misael Pintado Huamán</strong>, desenvolvedor Full-Stack e arquiteto de software do Peru 🇵🇪. Crio soluções digitais de alto impacto: desde plataformas de prevenção de desastres e sistemas escolares, até telemetria Stark Tech e automação.
+  </p>
+  <ul>
+    <li>🎯 <strong>Foco:</strong> Desenvolvimento Full-Stack, Arquitetura Web e Segurança Cibernética.</li>
+    <li>🔐 <strong>Segurança:</strong> Criptografia SHA-256, autenticação JWT e sessões blindadas.</li>
+    <li>📫 <strong>Contato:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇫🇷 Français</strong></summary><br />
+  <p>
+    🚀 Bonjour! Je suis <strong>Gerson Misael Pintado Huamán</strong>, développeur Full-Stack et architecte web basé au Pérou 🇵🇪. Je conçois des plateformes innovantes pour la gestion des risques, des intranets scolaires et des applications télémétriques de haute sécurité.
+  </p>
+  <ul>
+    <li>🎯 <strong>Compétences:</strong> Full-Stack JavaScript, Node.js, Python, PHP/Laravel et Sécurité Web.</li>
+    <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇩🇪 Deutsch</strong></summary><br />
+  <p>
+    🚀 Hallo! Ich bin <strong>Gerson Misael Pintado Huamán</strong>, Full-Stack-Entwickler und Software-Architekt aus Peru 🇵🇪. Ich entwickle skalierbare Web-Ökosysteme, Katastrophenschutz-Plattformen und hochsichere Automatisierungs-Tools.
+  </p>
+  <ul>
+    <li>🎯 <strong>Schwerpunkte:</strong> Full-Stack Web Development, SHA-256/JWT Websicherheit &amp; IoT-Telemetrie.</li>
+    <li>📫 <strong>Kontakt:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇯🇵 日本語 (Japanese)</strong></summary><br />
+  <p>
+    🚀 こんにちは！ペルー在住のフルスタックWeb開発者・セキュリティアーキテクト、<strong>ゲルソン・ミサエル・ピンタド・ワマン</strong>です。自然災害予防プラットフォーム「ARGOS」、学校管理イントラネット、Stark Techテレメトリシステムなど、革新的で安全なWebソリューションを開発しています。
+  </p>
+  <ul>
+    <li>🎯 <strong>専門分野:</strong> フルスタック開発 (JS, Node.js, Python, Laravel)、Webセキュリティ (SHA-256, JWT)</li>
+    <li>📫 <strong>連絡先:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🇨🇳 中文 (Simplified Chinese)</strong></summary><br />
+  <p>
+    🚀 您好！我是来自秘鲁的全栈Web开发者与系统安全架构师 <strong>Gerson Misael Pintado Huamán</strong>。专注于构建高性能数字化平台：包括自然灾害预防平台 (ARGOS)、学校管理系统、Stark Tech 交互式遥测应用以及自动化脚本套件。
+  </p>
+  <ul>
+    <li>🎯 <strong>核心技术:</strong> 全栈开发 (JavaScript, Node.js, Python, Laravel)、网络安全 (SHA-256 加密与 JWT 身份验证)</li>
+    <li>📫 <strong>电子邮件:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+  </ul>
+</details>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 🛠️ Stack Tecnológico & Arsenal Digital
+## 🛠️ Stack Tecnológico & Arsenal Digital • Tech Stack
 
 <!-- Tech Matrix (Click Redirects to Repositories) -->
 <p align="center">
@@ -148,8 +251,8 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 
 ## 🚀 Proyectos Destacados • Featured Projects
 
-### 🛡️ 1. ARGOS — Plataforma de Prevención de Riesgos
-> Sistema de monitoreo y prevención frente a desastres naturales con telemetría en tiempo real y mapas de evacuación.
+### 🛡️ 1. ARGOS — Natural Disaster Prevention &amp; Monitoring Platform
+> *Sistema de prevención y monitoreo de riesgos naturales con telemetría en tiempo real / Disaster risk management platform with live IoT telemetry.*
 
 <p align="center">
   <a href="https://gmph2007.github.io/sistemateos.github.oi/">
@@ -167,8 +270,8 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 
 ---
 
-### 🏫 2. Intranet y Aula Virtual I.E. 14739
-> Plataforma escolar integral: control de notas, asistencia, aula virtual interactiva y panel docente.
+### 🏫 2. Intranet &amp; Virtual Classroom I.E. 14739
+> *Plataforma escolar integral: control de notas, asistencia y aula virtual / Comprehensive school management & virtual classroom system.*
 
 <p align="center">
   <a href="https://colegio14739.freedev.app/">
@@ -187,7 +290,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 ---
 
 ### 🕷️ 3. Spidey Tracker Official v30.0
-> Aplicación de rastreo multiversal con HUD Stark Tech, emisora policial Web Audio y minijuego interactivo.
+> *Rastreo multiversal Stark Tech, emisora policial Web Audio y minijuego / Multiversal tracking with Stark Tech HUD & Police Radio voice dispatch.*
 
 <p align="center">
   <a href="https://github.com/GMPH2007/spidey-tracker-official">
@@ -202,8 +305,8 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 
 ---
 
-### ⏱️ 4. Chronos — Reloj Digital Mundial
-> Reloj interactivo con mapa de fronteras, zonas horarias mundiales en tiempo real y selector acústico.
+### ⏱️ 4. Chronos — Interactive World Clock
+> *Reloj mundial interactivo con mapa de husos horarios y sonido de precisión / Interactive world clock with borders map & acoustic chimes.*
 
 <p align="center">
   <a href="https://github.com/GMPH2007/reloj-digital-mundial">
@@ -218,7 +321,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 
 ---
 
-### 🤖 5. Suites de Automatización &amp; Portafolio
+### 🤖 5. Suites de Automatización &amp; Portafolio • Automation Tools
 <p align="center">
   <a href="https://github.com/GMPH2007/Bad-Robo">
     <img src="https://img.shields.io/badge/Bad--Robo-Python-ff5722?style=for-the-badge&logo=python&logoColor=white" alt="Bad Robo" />
@@ -303,7 +406,8 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 ## 📫 Conéctate Conmigo • Let's Connect!
 
 <p align="center">
-  ¿Tienes un proyecto en mente, una idea innovadora o buscas colaborar en software de alto impacto?
+  ¿Tienes un proyecto en mente, una idea innovadora o buscas colaborar en software de alto impacto?<br />
+  <sub>Looking for collaboration, tech partnerships or software development? Let's connect!</sub>
 </p>
 
 <p align="center">
