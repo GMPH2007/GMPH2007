@@ -1,6 +1,6 @@
 <!-- 
 ================================================================================
-[ ⚡ GMPH2007 // CYBERNETIC DEVELOPER CORE PROFILE - MULTILINGUAL EDITION ]
+[ ⚡ GMPH2007 // CYBERNETIC DEVELOPER CORE PROFILE - MULTILINGUAL MASTER EDITION ]
 ================================================================================
 © 2024-2026 Gerson Misael Pintado Huamán. ALL RIGHTS RESERVED.
 PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
@@ -32,7 +32,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
     <img src="https://img.shields.io/badge/Deutsch-%F0%9F%87%A9%F0%9F%87%AA-ffb703?style=for-the-badge&labelColor=0d1117" alt="Deutsch" />
   </a>
   <a href="https://translate.google.com/translate?sl=es&tl=ja&u=https://github.com/GMPH2007">
-    <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%F0%9F%87%AF%F0%9F%87%B5-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" />
+    <img src="https://img.shields.io/badge/%E6%97%A5%E6%9CAC%E8%AA%9E-%F0%9F%87%AF%F0%9F%87%B5-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" />
   </a>
   <a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007">
     <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%F0%9F%87%A8%F0%9F%87%B3-ff3366?style=for-the-badge&labelColor=0d1117" alt="中文" />
@@ -42,7 +42,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 <!-- Dynamic Typing Subtitle (Click Protected) -->
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F3FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Gerson+Misael+Pintado+Huam%C3%A1n;%F0%9F%9A%80+Full-Stack+Web+Developer+%7C+Tech+Creator;%E2%9A%A1+Especialista+en+JavaScript%2C+Node.js+%26+Python;%F0%9F%9B%A1%EF%B8%8F+Creador+de+ARGOS+(Prevenci%C3%B3n+de+Riesgos);%F0%9F%8F%AB+Desarrollador+de+Intranet+I.E.+14739;%F0%9F%95%B7%EF%B8%8F+Spidey+Tracker+v30.0+Stark+Tech+Telemetry;%E2%9C%A8+Transformando+ideas+en+c%C3%B3digo+de+alto+impacto" width="100%" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F3FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Gerson+Misael+Pintado+Huam%C3%A1n;%E2%9A%A1+Elite+Full-Stack+Architect+%7C+Cyber+Engineer;%F0%9F%9B%A1%EF%B8%8F+Especialista+en+Ciberseguridad%2C+JWT+%26+SHA-256;%F0%9F%9A%80+Creador+de+ARGOS+(Prevenci%C3%B3n+de+Riesgos);%F0%9F%8F%AB+Desarrollador+de+Intranet+I.E.+14739;%F0%9F%95%B7%EF%B8%8F+Spidey+Tracker+v30.0+Stark+Tech+Telemetry;%E2%9C%A8+Transformando+ideas+en+arquitectura+de+alto+impacto" width="100%" alt="Typing SVG" />
   </a>
 </p>
 
@@ -108,7 +108,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 👤 Sobre Mí • Multilingual Profile / About Me
+## 👤 Perfil Profesional • Multilingual Cyber Engineering Profile
 
 <p align="center">
   <a href="https://github.com/GMPH2007">
@@ -118,89 +118,89 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
 
 <p align="center">
   <strong>Gerson Misael Pintado Huamán</strong><br />
-  <sub>🚀 Full-Stack Web Developer &amp; Security Architect • Sullana, Piura, Perú 🇵🇪</sub>
+  <sub>⚡ Elite Full-Stack Software Engineer &amp; Cyber Architect • Piura, Perú 🇵🇪</sub>
 </p>
 
 <!-- 🌐 COLLAPSIBLE NATIVE MULTILINGUAL BIOS -->
 
 <details open>
-  <summary><strong>🇪🇸 Español (Original)</strong></summary><br />
+  <summary><strong>🇪🇸 Español (Perfil Técnico Principal)</strong></summary><br />
   <p>
-    🚀 ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador web y arquitecto de software de Piura, Perú. Me apasiona crear ecosistemas digitales de alto impacto: desde plataformas de prevención de desastres naturales y sistemas educativos, hasta interfaces Stark Tech con telemetría interactiva y herramientas de automatización.
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> es un desarrollador web Full-Stack y arquitecto de software de Piura, Perú. Con dominio avanzado en <strong>JavaScript moderno, TypeScript, Node.js, Python y PHP/Laravel</strong>, diseña sistemas de alta resiliencia, plataformas de prevención de riesgos con telemetría en tiempo real y suites de automatización con cifrado blindado.
   </p>
   <ul>
-    <li>🎯 <strong>Especialidad:</strong> Desarrollo Full-Stack, Arquitectura Web y UI/UX Reactiva.</li>
-    <li>🔐 <strong>Ciberseguridad Web:</strong> Cifrado SHA-256, autenticación JWT blindada y sesiones seguras.</li>
-    <li>⚡ <strong>Enfoque:</strong> Rendimiento extremo, código limpio y soluciones tecnológicas escalables.</li>
+    <li>🎯 <strong>Arquitectura Full-Stack:</strong> Interfaces reactivas de alto rendimiento, microservicios y APIs RESTful seguras.</li>
+    <li>🔐 <strong>Ciberseguridad &amp; Criptografía:</strong> Autenticación JWT stateless, hashing SHA-256 y protección de endpoints.</li>
+    <li>⚡ <strong>Ingeniería en Tiempo Real:</strong> WebSockets, Web Audio API, Canvas interactivo y telemetría IoT.</li>
     <li>📫 <strong>Contacto:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇺🇸 English (International Profile)</strong></summary><br />
+  <summary><strong>🇺🇸 English (Elite Technical Profile)</strong></summary><br />
   <p>
-    🚀 Hello world! I am <strong>Gerson Misael Pintado Huamán</strong>, a Full-Stack Web Developer &amp; Security Architect based in Piura, Peru 🇵🇪. I specialize in building mission-critical web applications: from disaster prevention IoT systems and educational intranets, to Stark Tech interactive telemetry and automation suites.
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> is an Elite Full-Stack Software Engineer &amp; Security Architect based in Piura, Peru 🇵🇪. Specializing in <strong>high-concurrency web systems, real-time IoT telemetry, and cryptographic web defense</strong> across modern JavaScript, TypeScript, Node.js, Python, and Laravel.
   </p>
   <ul>
-    <li>🎯 <strong>Core Expertise:</strong> Full-Stack Engineering, Web Architecture &amp; Reactive UI/UX.</li>
-    <li>🔐 <strong>Web Security:</strong> SHA-256 Cryptographic Hashing, JWT Authentication &amp; Hardened Sessions.</li>
-    <li>⚡ <strong>Philosophy:</strong> High performance, clean scalable architecture, and impactful digital solutions.</li>
-    <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
+    <li>🎯 <strong>Core Architecture:</strong> High-performance reactive interfaces, modular microservices &amp; RESTful APIs.</li>
+    <li>🔐 <strong>Cyber Defense &amp; Cryptography:</strong> JWT token rotation, SHA-256 HMAC data integrity, and session hardening.</li>
+    <li>⚡ <strong>Real-time Telemetry:</strong> WebSockets, Web Audio API engines, Canvas HUD graphics, and disaster forecasting.</li>
+    <li>📫 <strong>Direct Inquiries:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇧🇷 Português (Brasil &amp; Portugal)</strong></summary><br />
+  <summary><strong>🇧🇷 Português (Perfil Técnico Avançado)</strong></summary><br />
   <p>
-    🚀 Olá! Sou <strong>Gerson Misael Pintado Huamán</strong>, desenvolvedor Full-Stack e arquiteto de software do Peru 🇵🇪. Crio soluções digitais de alto impacto: desde plataformas de prevenção de desastres e sistemas escolares, até telemetria Stark Tech e automação.
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> é um Engenheiro de Software Full-Stack e Especialista em Segurança Web no Peru 🇵🇪. Especializado em sistemas resilientes, plataformas de prevenção de desastres com telemetria IoT e automação segura.
   </p>
   <ul>
-    <li>🎯 <strong>Foco:</strong> Desenvolvimento Full-Stack, Arquitetura Web e Segurança Cibernética.</li>
-    <li>🔐 <strong>Segurança:</strong> Criptografia SHA-256, autenticação JWT e sessões blindadas.</li>
+    <li>🎯 <strong>Stack Principal:</strong> JavaScript, Node.js, Python, PHP/Laravel, MySQL e Cibersegurança.</li>
+    <li>🔐 <strong>Segurança:</strong> Criptografia SHA-256, autenticação JWT e arquitetura protegida contra invasões.</li>
     <li>📫 <strong>Contato:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇫🇷 Français</strong></summary><br />
+  <summary><strong>🇫🇷 Français (Profil d'Ingénierie Logicielle)</strong></summary><br />
   <p>
-    🚀 Bonjour! Je suis <strong>Gerson Misael Pintado Huamán</strong>, développeur Full-Stack et architecte web basé au Pérou 🇵🇪. Je conçois des plateformes innovantes pour la gestion des risques, des intranets scolaires et des applications télémétriques de haute sécurité.
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> est un ingénieur logiciel Full-Stack et architecte en cybersécurité basé au Pérou 🇵🇪. Spécialisé dans le développement d'architectures web robustes, d'intranets de haute performance et de systèmes de télémétrie en temps réel.
   </p>
   <ul>
-    <li>🎯 <strong>Compétences:</strong> Full-Stack JavaScript, Node.js, Python, PHP/Laravel et Sécurité Web.</li>
+    <li>🎯 <strong>Technologies Clés:</strong> JavaScript, Node.js, Python, Laravel, Cryptographie SHA-256 et Sécurité JWT.</li>
     <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇩🇪 Deutsch</strong></summary><br />
+  <summary><strong>🇩🇪 Deutsch (Technisches Software-Profil)</strong></summary><br />
   <p>
-    🚀 Hallo! Ich bin <strong>Gerson Misael Pintado Huamán</strong>, Full-Stack-Entwickler und Software-Architekt aus Peru 🇵🇪. Ich entwickle skalierbare Web-Ökosysteme, Katastrophenschutz-Plattformen und hochsichere Automatisierungs-Tools.
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> ist ein Full-Stack-Software-Ingenieur und Web-Sicherheitsarchitekt aus Peru 🇵🇪. Experte für skalierbare Web-Ökosysteme, IoT-Echtzeit-Telemetrie und kryptografisch abgesicherte Systeme.
   </p>
   <ul>
-    <li>🎯 <strong>Schwerpunkte:</strong> Full-Stack Web Development, SHA-256/JWT Websicherheit &amp; IoT-Telemetrie.</li>
+    <li>🎯 <strong>Schwerpunkte:</strong> Full-Stack JavaScript/Node.js, Python, PHP/Laravel, SHA-256/JWT Websicherheit.</li>
     <li>📫 <strong>Kontakt:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇯🇵 日本語 (Japanese)</strong></summary><br />
+  <summary><strong>🇯🇵 日本語 (高度な技術プロフィール)</strong></summary><br />
   <p>
-    🚀 こんにちは！ペルー在住のフルスタックWeb開発者・セキュリティアーキテクト、<strong>ゲルソン・ミサエル・ピンタド・ワマン</strong>です。自然災害予防プラットフォーム「ARGOS」、学校管理イントラネット、Stark Techテレメトリシステムなど、革新的で安全なWebソリューションを開発しています。
+    🚀 ペルー在住の高度フルスタックエンジニア兼セキュリティアーキテクト、<strong>ゲルソン・ミサエル・ピンタド・ワマン</strong>。高信頼性リアルタイムWebアーキテクチャ、自然災害防止IoTプラットフォーム「ARGOS」、Stark Tech HUDシステムを構築しています。
   </p>
   <ul>
-    <li>🎯 <strong>専門分野:</strong> フルスタック開発 (JS, Node.js, Python, Laravel)、Webセキュリティ (SHA-256, JWT)</li>
+    <li>🎯 <strong>専門技術:</strong> フルスタック開発 (JS/TS, Node.js, Python, Laravel)、暗号化セキュリティ (SHA-256, JWT)</li>
     <li>📫 <strong>連絡先:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>🇨🇳 中文 (Simplified Chinese)</strong></summary><br />
+  <summary><strong>🇨🇳 中文 (高级软件架构师简介)</strong></summary><br />
   <p>
-    🚀 您好！我是来自秘鲁的全栈Web开发者与系统安全架构师 <strong>Gerson Misael Pintado Huamán</strong>。专注于构建高性能数字化平台：包括自然灾害预防平台 (ARGOS)、学校管理系统、Stark Tech 交互式遥测应用以及自动化脚本套件。
+    🚀 <strong>Gerson Misael Pintado Huamán</strong> 是一名常驻秘鲁的资深全栈软件工程师与网络安全架构师。专注于构建高性能、高可用的实时数字化系统、自然灾害监测平台 (ARGOS) 及自动化脚本套件。
   </p>
   <ul>
-    <li>🎯 <strong>核心技术:</strong> 全栈开发 (JavaScript, Node.js, Python, Laravel)、网络安全 (SHA-256 加密与 JWT 身份验证)</li>
+    <li>🎯 <strong>核心技术栈:</strong> 全栈开发 (JavaScript, TypeScript, Node.js, Python, Laravel)、网络安全 (SHA-256 加密与 JWT 身份验证)</li>
     <li>📫 <strong>电子邮件:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -249,7 +249,7 @@ PROPRIETARY DIGITAL CODE & ARCHITECTURE. UNAUTHORIZED CLONING PROHIBITED.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 🚀 Proyectos Destacados • Featured Projects
+## 🚀 Proyectos Destacados • Featured Engineering Projects
 
 ### 🛡️ 1. ARGOS — Natural Disaster Prevention &amp; Monitoring Platform
 > *Sistema de prevención y monitoreo de riesgos naturales con telemetría en tiempo real / Disaster risk management platform with live IoT telemetry.*
