@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Deutsch-%F0%9F%87%A9%F0%9F%87%AA-ffb703?style=for-the-badge&labelColor=0d1117" alt="Deutsch" />
   </a>
   <a href="https://translate.google.com/translate?sl=es&tl=ja&u=https://github.com/GMPH2007">
-    <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%F0%9F%87%AF%F0%9F%87%B5-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" />
+    <img src="https://img.shields.io/badge/%E6%97%A5%E6%9CAC%E8%AA%9E-%F0%9F%87%AF%F0%9F%87%B5-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" />
   </a>
   <a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007">
     <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%F0%9F%87%A8%F0%9F%87%B3-ff3366?style=for-the-badge&labelColor=0d1117" alt="中文" />
@@ -76,14 +76,14 @@
 <!-- Comunidad y Red de Desarrolladores -->
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=followers">
-    <img src="community_growth_hub.svg" width="100%" alt="Comunidad - Seguir a GMPH2007" />
+    <img src="assets/community_growth_hub.svg" width="100%" alt="Comunidad - Seguir a GMPH2007" />
   </a>
 </p>
 
 <!-- Consola Interactiva -->
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="terminal_hacker_animated.svg" width="100%" alt="Terminal GMPH2007" />
+    <img src="assets/terminal_hacker_animated.svg" width="100%" alt="Terminal GMPH2007" />
   </a>
 </p>
 
@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=achievements">
-    <img src="github_hall_of_fame_vault.svg" width="100%" alt="Premios y Logros Oficiales de GitHub" />
+    <img src="assets/github_hall_of_fame_vault.svg" width="100%" alt="Premios y Logros Oficiales de GitHub" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="gmph_anime_avatar.jpg" width="180" style="border-radius: 50%; border: 3px solid #00f3ff; box-shadow: 0 0 25px rgba(0, 243, 255, 0.5);" alt="Gerson Misael Avatar" />
+    <img src="assets/gmph_anime_avatar.jpg" width="180" style="border-radius: 50%; border: 3px solid #00f3ff; box-shadow: 0 0 25px rgba(0, 243, 255, 0.5);" alt="Gerson Misael Avatar" />
   </a>
 </p>
 
@@ -250,7 +250,7 @@
 
 <p align="center">
   <a href="https://gmph2007.github.io/sistemateos.github.oi/">
-    <img src="project_argos_animated.svg" width="100%" alt="ARGOS Prevención de Desastres" />
+    <img src="assets/project_argos_animated.svg" width="100%" alt="ARGOS Prevención de Desastres" />
   </a>
 </p>
 <p align="center">
@@ -269,7 +269,7 @@
 
 <p align="center">
   <a href="https://colegio14739.freedev.app/">
-    <img src="project_school_animated.svg" width="100%" alt="Intranet I.E. 14739" />
+    <img src="assets/project_school_animated.svg" width="100%" alt="Intranet I.E. 14739" />
   </a>
 </p>
 <p align="center">
@@ -288,7 +288,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007/spidey-tracker-official">
-    <img src="project_spidey_animated.svg" width="100%" alt="Spidey Tracker Official" />
+    <img src="assets/project_spidey_animated.svg" width="100%" alt="Spidey Tracker Official" />
   </a>
 </p>
 <p align="center">
@@ -304,7 +304,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007/reloj-digital-mundial">
-    <img src="project_chronos_animated.svg" width="100%" alt="Chronos Reloj Mundial" />
+    <img src="assets/project_chronos_animated.svg" width="100%" alt="Chronos Reloj Mundial" />
   </a>
 </p>
 <p align="center">
@@ -352,7 +352,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="cyber_telemetry_matrix.svg" width="100%" alt="Panel de Rendimiento y Telemetría" />
+    <img src="assets/cyber_telemetry_matrix.svg" width="100%" alt="Panel de Rendimiento y Telemetría" />
   </a>
 </p>
 
@@ -364,25 +364,25 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=repositories">
-    <img src="github-stats-custom.svg" width="100%" alt="Estadísticas de GitHub" />
+    <img src="assets/github-stats-custom.svg" width="100%" alt="Estadísticas de GitHub" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GMPH2007">
-    <img src="github-streak-custom.svg" width="100%" alt="Racha de Contribuciones" />
+    <img src="assets/github-streak-custom.svg" width="100%" alt="Racha de Contribuciones" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=repositories">
-    <img src="github-langs-custom.svg" width="100%" alt="Lenguajes Principales" />
+    <img src="assets/github-langs-custom.svg" width="100%" alt="Lenguajes Principales" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=achievements">
-    <img src="github-trophies-custom.svg" width="100%" alt="Trofeos de Desarrollador" />
+    <img src="assets/github-trophies-custom.svg" width="100%" alt="Trofeos de Desarrollador" />
   </a>
 </p>
 
