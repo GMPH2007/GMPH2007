@@ -1,7 +1,9 @@
 <!-- 
 ================================================================================
-  Gerson Misael Pintado Huamán | GitHub Profile
-  Sullana, Piura - Perú
+  Gerson Misael Pintado Huamán | GitHub Profile & Portfolio
+  Full-Stack Developer • Security & AI Enthusiast
+  Sullana, Piura - Perú 🇵🇪
+  LinkedIn: https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423
 ================================================================================
 -->
 
@@ -9,7 +11,7 @@
   <a href="https://github.com/GMPH2007"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=240&section=header&text=Gerson%20Misael%20Pintado&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Software%20Creator&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" /></a>
 </p>
 
-<!-- 🌐 Selector de Idioma / Language Switcher (Sin errores de caracteres ni subrayados) -->
+<!-- 🌐 Selector de Idioma / Language Switcher -->
 <p align="center">
   <strong>🌍 Selector de Idioma / Language Switcher:</strong><br /><br />
   <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Espa%C3%B1ol-ES-00f3ff?style=for-the-badge&labelColor=0d1117" alt="Español" /></a>
@@ -21,19 +23,21 @@
   <a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Chinese-ZH-ff3366?style=for-the-badge&labelColor=0d1117" alt="中文" /></a>
 </p>
 
-<!-- Subtítulo Dinámico (Flujo Continuo sin Cortes) -->
+<!-- Subtítulo Dinámico con Efecto Máquina de Escribir -->
 <p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=00F3FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Gerson+Misael+Pintado+Huam%C3%A1n;%F0%9F%92%BB+Desarrollador+Web+Full-Stack+%7C+JavaScript+%E2%80%A2+Python;%F0%9F%9B%A1%EF%B8%8F+Creador+de+ARGOS+Prevenci%C3%B3n+de+Riesgos;%F0%9F%8F%AB+Desarrollador+de+la+Intranet+I.E.+14739;%F0%9F%95%B7%EF%B8%8F+Spidey+Tracker+v30.0+Stark+Tech;%E2%9C%A8+Construyendo+software+de+alto+impacto" alt="Typing SVG" /></a>
+  <a href="https://github.com/GMPH2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=00F3FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Gerson+Misael+Pintado+Huam%C3%A1n;%F0%9F%92%BB+Desarrollador+Web+Full-Stack+%7C+JavaScript+%E2%80%A2+Python+%E2%80%A2+PHP;%F0%9F%9B%A1%EF%B8%8F+Seguridad+Web+%7C+JWT+%E2%80%A2+SHA-256+%E2%80%A2+APIs+REST;%F0%9F%8F%AB+Desarrollador+de+la+Intranet+I.E.+14739;%F0%9F%95%B7%EF%B8%8F+Spider-Man+Brand+New+Day+Cinema+4K;%E2%9C%A8+Conectemos+en+LinkedIn+%7C+Abierto+a+colaboraciones" alt="Typing SVG" /></a>
 </p>
 
-<!-- Badges de Estado Limpios (Sin Subrayados) -->
+<!-- Badges de Conexión Rápida & Estado -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Misael_Pintado-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" alt="LinkedIn" /></a>
   <a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/github/followers/GMPH2007?label=Seguidores&style=for-the-badge&logo=github&color=00f3ff&logoColor=black&labelColor=0d1117" alt="Followers" /></a>
   <a href="https://github.com/GMPH2007"><img src="https://komarev.com/ghpvc/?username=GMPH2007&color=00f3ff&style=for-the-badge&label=VISTAS+%F0%9F%91%81%EF%B8%8F&base=1000" alt="Profile Views" /></a>
   <a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Status-Disponible_para_proyectos-ff007f?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Developer_Program-Member-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Developer Program" /></a>
   <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Seguridad-JWT_%26_SHA256-00c853?style=for-the-badge&labelColor=0d1117" alt="Security Badge" /></a>
   <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Stack-Full--Stack-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Stack" /></a>
   <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Piura%2C_Per%C3%BA_%F0%9F%87%B5%F0%9F%87%AA-ffb703?style=for-the-badge&labelColor=0d1117" alt="Location" /></a>
@@ -48,7 +52,7 @@
   <a href="https://github.com/GMPH2007?tab=followers"><img src="assets/community_growth_hub.svg" width="100%" alt="Comunidad - Seguir a GMPH2007" /></a>
 </p>
 
-<!-- Consola Interactiva -->
+<!-- Consola Interactiva Terminal -->
 <p align="center">
   <a href="https://github.com/GMPH2007"><img src="assets/terminal_hacker_animated.svg" width="100%" alt="Terminal GMPH2007" /></a>
 </p>
@@ -57,10 +61,84 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
 </p>
 
-## 🏛️ Premios y Reconocimientos Oficiales • GitHub Legacy Vault
+## 🏆 Insignias Oficiales de GitHub • Achievements Showcase
 
 <p align="center">
   <a href="https://github.com/GMPH2007?tab=achievements"><img src="assets/github_hall_of_fame_vault.svg" width="100%" alt="Premios y Logros Oficiales de GitHub" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GMPH2007?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=GMPH2007&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=1&column=8" width="100%" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Tabla de Logros Desbloqueados y en Progreso -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO" /><br />
+      <strong>YOLO</strong><br />
+      <sub>✅ Merge sin PR Review</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw" /><br />
+      <strong>Quickdraw</strong><br />
+      <sub>✅ Respuesta en <5 min</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark" /><br />
+      <strong>Pull Shark</strong><br />
+      <sub>✅ 2+ PRs Mergeados</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" alt="Starstruck" /><br />
+      <strong>Starstruck</strong><br />
+      <sub>⭐ 16+ Estrellas en Repos</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" /><br />
+      <strong>Pair Extraordinaire</strong><br />
+      <sub>🤝 Co-autor en Commits</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" alt="Galaxy Brain" /><br />
+      <strong>Galaxy Brain</strong><br />
+      <sub>🧠 2+ Respuestas Aceptadas</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" alt="Arctic Code Vault" /><br />
+      <strong>Arctic Code Vault</strong><br />
+      <sub>❄️ Código en Bóveda Ártica</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" alt="Public Sponsor" /><br />
+      <strong>Public Sponsor</strong><br />
+      <sub>💖 Patrocinador Open Source</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
+</p>
+
+## 🏛️ Organizaciones &amp; Ecosistema Open Source
+
+<p align="center">
+  Colaborando y aprendiendo activamente de las comunidades tecnológicas líderes del mundo:
+</p>
+
+<p align="center">
+  <a href="https://github.com/microsoft" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft" /></a>
+  <a href="https://github.com/google" target="_blank"><img src="https://img.shields.io/badge/Google_Developer_Groups-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google" /></a>
+  <a href="https://github.com/github" target="_blank"><img src="https://img.shields.io/badge/GitHub_Community-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="https://github.com/freeCodeCamp" target="_blank"><img src="https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=0d1117" alt="freeCodeCamp" /></a>
+  <a href="https://github.com/nodejs" target="_blank"><img src="https://img.shields.io/badge/Node.js_Org-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" alt="NodeJS" /></a>
+  <a href="https://github.com/python" target="_blank"><img src="https://img.shields.io/badge/Python_Software_Foundation-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" /></a>
+  <a href="https://github.com/OWASP" target="_blank"><img src="https://img.shields.io/badge/OWASP_Security-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" alt="OWASP" /></a>
 </p>
 
 <p align="center">
@@ -75,20 +153,21 @@
 
 <p align="center">
   <strong>Gerson Misael Pintado Huamán</strong><br />
-  <sub>Desarrollador Web Full-Stack • Piura, Perú 🇵🇪</sub>
+  <sub>Desarrollador Web Full-Stack • Especialista en Soluciones Web &amp; Seguridad • Sullana, Piura, Perú 🇵🇪</sub><br />
+  <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <!-- Bios Naturales en Múltiples Idiomas -->
-
 <details open>
   <summary><strong>🇪🇸 Español</strong></summary><br />
   <p>
-    ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador de software de Sullana, Piura, Perú. Me apasiona programar aplicaciones web completas, diseñar interfaces atractivas y crear soluciones reales que ayuden a las personas y a las instituciones.
+    ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador de software de Sullana, Piura, Perú. Me apasiona programar aplicaciones web completas, diseñar interfaces futuristas y construir soluciones robustas con buenas prácticas de seguridad para instituciones y usuarios globales.
   </p>
   <ul>
     <li>💻 <strong>Frontend &amp; Backend:</strong> Desarrollo con JavaScript, TypeScript, Node.js, Python, PHP y Laravel.</li>
-    <li>🔐 <strong>Seguridad Web:</strong> Implementación de autenticación con JWT, cifrado SHA-256 y buenas prácticas en APIs.</li>
-    <li>🚀 <strong>Mis Proyectos:</strong> He creado desde plataformas de prevención de riesgos (ARGOS) hasta intranets educativas y herramientas interactivas.</li>
+    <li>🔐 <strong>Seguridad Web:</strong> Implementación de autenticación con JWT, cifrado SHA-256 y control de acceso robusto.</li>
+    <li>🚀 <strong>Proyectos Destacados:</strong> Creador de Spider-Stream 4K (Spider-Man 2026), ARGOS Prevención de Desastres, Intranet Escolar I.E. 14739 y Spidey Tracker OS.</li>
+    <li>💼 <strong>Perfil Profesional:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>LinkedIn: Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>Contacto directo:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -96,12 +175,13 @@
 <details>
   <summary><strong>🇺🇸 English</strong></summary><br />
   <p>
-    Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a full-stack web developer from Piura, Peru. I enjoy building solid web applications, interactive user interfaces, and useful software that solves real-world problems.
+    Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a full-stack web developer and software creator from Sullana, Piura, Peru. I focus on building high-performance web applications, interactive UI systems, and secure platforms.
   </p>
   <ul>
     <li>💻 <strong>Tech Stack:</strong> JavaScript, TypeScript, Node.js, Python, PHP, Laravel, and modern web frameworks.</li>
-    <li>🔐 <strong>Web Security:</strong> Hands-on experience with JWT authentication, SHA-256 hashing, and secure API design.</li>
-    <li>🚀 <strong>Projects:</strong> Creator of ARGOS (Disaster Prevention System), school intranets, and real-time telemetry apps.</li>
+    <li>🔐 <strong>Web Security:</strong> JWT authentication, SHA-256 hashing, and secure RESTful APIs.</li>
+    <li>🚀 <strong>Projects:</strong> Spider-Stream 4K Cinema Hub, ARGOS Disaster Prevention System, School Intranet I.E. 14739, and Spidey Tracker.</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>Email:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -109,11 +189,11 @@
 <details>
   <summary><strong>🇧🇷 Português</strong></summary><br />
   <p>
-    Olá! Sou <strong>Gerson Misael Pintado Huamán</strong>, desenvolvedor web Full-Stack do Peru. Gosto de criar plataformas completas, interfaces interativas e projetos com código limpo e seguro.
+    Olá! Sou <strong>Gerson Misael Pintado Huamán</strong>, desenvolvedor web Full-Stack do Peru. Crio plataformas modernas, seguras e com alto desempenho.
   </p>
   <ul>
     <li>💻 <strong>Tecnologias:</strong> JavaScript, Node.js, Python, PHP, Laravel e bancos de dados SQL/NoSQL.</li>
-    <li>🔐 <strong>Segurança:</strong> Autenticação JWT e proteção de dados com SHA-256.</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>Contato:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -125,6 +205,7 @@
   </p>
   <ul>
     <li>💻 <strong>Compétences:</strong> JavaScript, Node.js, Python, Laravel, bases de données et sécurité web.</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -136,6 +217,7 @@
   </p>
   <ul>
     <li>💻 <strong>Stack:</strong> JavaScript, Node.js, Python, PHP/Laravel und Web-Sicherheit.</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>Kontakt:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -147,6 +229,7 @@
   </p>
   <ul>
     <li>💻 <strong>開発言語:</strong> JavaScript, Node.js, Python, PHP, Laravel, Webセキュリティ</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>連絡先:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -158,6 +241,7 @@
   </p>
   <ul>
     <li>💻 <strong>技术栈:</strong> JavaScript, TypeScript, Node.js, Python, Laravel 及 Web 安全</li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><strong>Misael Pintado Huamán</strong></a></li>
     <li>📫 <strong>联系邮箱:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
   </ul>
 </details>
@@ -205,7 +289,17 @@
 
 ## 🚀 Proyectos Destacados • Featured Projects
 
-### 🛡️ 1. ARGOS — Plataforma de Prevención de Desastres Naturales
+### 🕷️ 1. Spider-Man: Brand New Day (2026) — Streaming 4K Platform
+> Plataforma web de streaming cinematográfico para Spider-Man (2026) con reproductor con soporte HTTP Range 206, aceleración por GPU, canvas interactivo y diseño Marvel Studios.
+
+<p align="center">
+  <a href="https://gmph2007.github.io/spiderman-brand-new-day/" target="_blank"><img src="https://img.shields.io/badge/🎬_Ver_Plataforma_Online-ff0844?style=for-the-badge&logo=marvel&logoColor=white&labelColor=0d1117" alt="Demo Spider-Man" /></a>
+  <a href="https://github.com/GMPH2007/spiderman-brand-new-day" target="_blank"><img src="https://img.shields.io/badge/💾_Ver_Repositorio-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Spider-Man" /></a>
+</p>
+
+---
+
+### 🛡️ 2. ARGOS — Plataforma de Prevención de Desastres Naturales
 > Plataforma de monitoreo y mapas de evacuación frente a riesgos naturales con telemetría en tiempo real.
 
 <p align="center">
@@ -218,7 +312,7 @@
 
 ---
 
-### 🏫 2. Intranet Escolar y Aula Virtual I.E. 14739
+### 🏫 3. Intranet Escolar y Aula Virtual I.E. 14739
 > Sistema escolar integral para control de calificaciones, asistencia de estudiantes, aula virtual y módulo docente.
 
 <p align="center">
@@ -231,7 +325,7 @@
 
 ---
 
-### 🕷️ 3. Spidey Tracker Official v30.0
+### 🕷️ 4. Spidey Tracker Official v30.0
 > Aplicación interactiva con interfaz estilo Stark Tech, radio policial mediante Web Audio API y minijuego integrado.
 
 <p align="center">
@@ -243,7 +337,7 @@
 
 ---
 
-### ⏱️ 4. Chronos — Reloj Digital Mundial
+### ⏱️ 5. Chronos — Reloj Digital Mundial
 > Reloj digital interactivo con cálculo preciso de husos horarios, mapa dinámico de fronteras y sonidos de campana.
 
 <p align="center">
@@ -255,7 +349,7 @@
 
 ---
 
-### 🤖 5. Herramientas de Automatización &amp; Portafolio TI
+### 🤖 6. Herramientas de Automatización &amp; Portafolio TI
 <p align="center">
   <a href="https://github.com/GMPH2007/Bad-Robo"><img src="https://img.shields.io/badge/Bad--Robo-Python-ff5722?style=for-the-badge&logo=python&logoColor=white" alt="Bad Robo" /></a>
   <a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated"><img src="https://img.shields.io/badge/Follower_Bot-Auto-00c853?style=for-the-badge&logo=github&logoColor=white" alt="Follower Bot" /></a>
@@ -313,10 +407,11 @@
 ## 📫 Conéctate Conmigo • Let's Connect!
 
 <p align="center">
-  ¿Tienes alguna propuesta de proyecto, idea innovadora o buscas colaborar en software? ¡Escríbeme!
+  ¿Tienes alguna propuesta de proyecto, idea innovadora o buscas colaborar en software? ¡Hablemos!
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/misael-pintado-huaman-63b7b3423" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Misael_Pintado_Huam%C3%A1n-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Profile" /></a>
   <a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/badge/Seguir%20en%20GitHub-%2B1%20Follow-00f3ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="Follow GitHub" /></a>
   <a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Gmail-misaelpintado7%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
   <a href="https://github.com/GMPH2007/GMPH2007/issues"><img src="https://img.shields.io/badge/Contacto-Colaboraci%C3%B3n-00c853?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Colaboración" /></a>
