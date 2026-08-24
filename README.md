@@ -207,7 +207,7 @@
 
 <p align="center">
   <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Developer Program" /></a>
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Google_Developers-Ecosystem_Builder-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google Developers" /></a>
+  <a href="https://developers.google.com/profile/u/misaelpintado7"><img src="https://img.shields.io/badge/Google_Developers-misaelpintado7-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google Developers Profile" /></a>
   <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Microsoft-Open_Source_Partner-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft Partner" /></a>
 </p>
 
