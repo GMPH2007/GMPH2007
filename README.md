@@ -1,348 +1,296 @@
-<!-- 
-================================================================================
-  Gerson Misael Pintado Huamán | GitHub Profile
-  Sullana, Piura - Perú
-================================================================================
--->
+<!-- GMPH2007 | Gerson Misael Pintado Huamán | © 2024-2026 All Rights Reserved -->
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=240&section=header&text=Gerson%20Misael%20Pintado&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Software%20Creator&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" /></a>
-</p>
+<div align="center">
 
-<!-- 🌐 Selector de Idioma / Language Switcher (Sin errores de caracteres ni subrayados) -->
-<p align="center">
-  <strong>🌍 Selector de Idioma / Language Switcher:</strong><br /><br />
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Espa%C3%B1ol-ES-00f3ff?style=for-the-badge&labelColor=0d1117" alt="Español" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/English-EN-38bdf8?style=for-the-badge&labelColor=0d1117" alt="English" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=pt&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Portugu%C3%AAs-PT-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Português" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=fr&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Fran%C3%A7ais-FR-ff007f?style=for-the-badge&labelColor=0d1117" alt="Français" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=de&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Deutsch-DE-ffb703?style=for-the-badge&labelColor=0d1117" alt="Deutsch" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=ja&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Japanese-JA-c084fc?style=for-the-badge&labelColor=0d1117" alt="日本語" /></a>
-  <a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Chinese-ZH-ff3366?style=for-the-badge&labelColor=0d1117" alt="中文" /></a>
-</p>
+<a href="https://github.com/GMPH2007"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,12,18,24,30&height=300&section=header&text=GMPH2007&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Gerson%20Misael%20Pintado%20Huamán%20%7C%20Full%20Stack%20Developer&descAlignY=75&descAlign=50&descSize=16" width="100%" alt="GMPH2007 Header" /></a>
 
-<!-- Subtítulo Dinámico (Flujo Continuo sin Cortes) -->
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=00F3FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Gerson+Misael+Pintado+Huam%C3%A1n;%F0%9F%92%BB+Desarrollador+Web+Full-Stack+%7C+JavaScript+%E2%80%A2+Python;%F0%9F%9B%A1%EF%B8%8F+Creador+de+ARGOS+Prevenci%C3%B3n+de+Riesgos;%F0%9F%8F%AB+Desarrollador+de+la+Intranet+I.E.+14739;%F0%9F%95%B7%EF%B8%8F+Spidey+Tracker+v30.0+Stark+Tech;%E2%9C%A8+Construyendo+software+de+alto+impacto" alt="Typing SVG" /></a>
-</p>
+</div>
 
-<!-- Badges de Estado Limpios (Sin Subrayados) -->
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/github/followers/GMPH2007?label=Seguidores&style=for-the-badge&logo=github&color=00f3ff&logoColor=black&labelColor=0d1117" alt="Followers" /></a>
-  <a href="https://github.com/GMPH2007"><img src="https://komarev.com/ghpvc/?username=GMPH2007&color=00f3ff&style=for-the-badge&label=VISTAS+%F0%9F%91%81%EF%B8%8F&base=1000" alt="Profile Views" /></a>
-  <a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Status-Disponible_para_proyectos-ff007f?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
-</p>
+<div align="center"><br/>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Seguridad-JWT_%26_SHA256-00c853?style=for-the-badge&labelColor=0d1117" alt="Security Badge" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Stack-Full--Stack-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Stack" /></a>
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Piura%2C_Per%C3%BA_%F0%9F%87%B5%F0%9F%87%AA-ffb703?style=for-the-badge&labelColor=0d1117" alt="Location" /></a>
-</p>
+🌍 **Ver en tu idioma:**&nbsp;
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Español-ES-00f3ff?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/English-EN-38bdf8?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://translate.google.com/translate?sl=es&tl=pt&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Português-PT-00ff9d?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://translate.google.com/translate?sl=es&tl=fr&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Français-FR-ff007f?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://translate.google.com/translate?sl=es&tl=ja&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Japanese-JA-c084fc?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://translate.google.com/translate?sl=es&tl=zh-CN&u=https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Chinese-ZH-ff3366?style=flat-square&labelColor=0d1117" /></a>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+</div>
 
-<!-- Comunidad y Red de Desarrolladores -->
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=followers"><img src="assets/community_growth_hub.svg" width="100%" alt="Comunidad - Seguir a GMPH2007" /></a>
-</p>
+<br/>
 
-<!-- Consola Interactiva -->
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="assets/terminal_hacker_animated.svg" width="100%" alt="Terminal GMPH2007" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&width=820&height=55&lines=👋+¡Hola!+Soy+Gerson+Misael+Pintado+Huamán;💻+Desarrollador+Full-Stack+%7C+Piura%2C+Perú+🇵🇪;🛡️+Creador+de+ARGOS+-+Prevención+Civil+en+Tiempo+Real;🏫+Intranet+Oficial+I.E.+14739+-+Colegio+Inteligente;🕷️+Spidey+Tracker+v30.0+-+Stark+Tech+Edition;⏱️+Chronos+-+Reloj+Interactivo+Mundial;🚀+Construyendo+software+que+cambia+vidas+reales" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<br/>
 
-## 🏛️ Premios y Reconocimientos Oficiales • GitHub Legacy Vault
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/github/followers/GMPH2007?label=Seguidores&style=for-the-badge&logo=github&color=00f3ff&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007"><img src="https://komarev.com/ghpvc/?username=GMPH2007&color=00f3ff&style=for-the-badge&label=VISITAS&base=2500" /></a>&nbsp;
+<a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Repos-14_Públicos-ff007f?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/STATUS-Open_To_Work-00c853?style=for-the-badge&labelColor=0d1117" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=achievements"><img src="assets/github_hall_of_fame_vault.svg" width="100%" alt="Premios y Logros Oficiales de GitHub" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Stack-Full--Stack_Developer-38bdf8?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Seguridad-JWT_%26_SHA--256-00c853?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Ubicación-Piura%2C_Perú-ffb703?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://developers.google.com/profile/u/misaelpintado7"><img src="https://img.shields.io/badge/Google_Dev-Member-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /></a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=followers"><img src="assets/community_growth_hub.svg" width="100%" alt="Seguir a GMPH2007" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="assets/terminal_hacker_animated.svg" width="100%" alt="Terminal GMPH2007" /></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 Logros y Trofeos Oficiales de GitHub
+
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="assets/github_hall_of_fame_vault.svg" width="100%" alt="Trofeos GitHub" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="https://img.shields.io/badge/🪐_YOLO-Desbloqueado-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="https://img.shields.io/badge/⚡_Quickdraw-Desbloqueado-f59e0b?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="https://img.shields.io/badge/🦈_Pull_Shark-x32_PRs-00bcd4?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="https://img.shields.io/badge/🧠_Galaxy_Brain-x16_Answers-4ade80?style=for-the-badge&labelColor=0d1117" /></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👤 Sobre Mí • About Me
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="assets/gmph_anime_avatar.jpg" width="180" style="border-radius: 50%; border: 3px solid #00f3ff; box-shadow: 0 0 25px rgba(0, 243, 255, 0.5);" alt="Gerson Misael Avatar" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="assets/gmph_anime_avatar.jpg" width="160" style="border-radius:50%;border:3px solid #00f3ff;" alt="Avatar GMPH2007" /></a>
+<br/><br/>
+<strong>Gerson Misael Pintado Huamán</strong><br/>
+<sub>💻 Full-Stack Developer • 🛡️ Web Security • 🚀 Software Creator • 📍 Piura, Perú 🇵🇪</sub>
+</div>
 
-<p align="center">
-  <strong>Gerson Misael Pintado Huamán</strong><br />
-  <sub>Desarrollador Web Full-Stack • Piura, Perú 🇵🇪</sub>
-</p>
-
-<!-- Bios Naturales en Múltiples Idiomas -->
+<br/>
 
 <details open>
-  <summary><strong>🇪🇸 Español</strong></summary><br />
-  <p>
-    ¡Hola! Soy <strong>Gerson Misael Pintado Huamán</strong>, desarrollador de software de Sullana, Piura, Perú. Me apasiona programar aplicaciones web completas, diseñar interfaces atractivas y crear soluciones reales que ayuden a las personas y a las instituciones.
-  </p>
-  <ul>
-    <li>💻 <strong>Frontend &amp; Backend:</strong> Desarrollo con JavaScript, TypeScript, Node.js, Python, PHP y Laravel.</li>
-    <li>🔐 <strong>Seguridad Web:</strong> Implementación de autenticación con JWT, cifrado SHA-256 y buenas prácticas en APIs.</li>
-    <li>🚀 <strong>Mis Proyectos:</strong> He creado desde plataformas de prevención de riesgos (ARGOS) hasta intranets educativas y herramientas interactivas.</li>
-    <li>📫 <strong>Contacto directo:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
+<summary><strong>🇪🇸 Español</strong></summary><br/>
+
+Soy **Gerson Misael Pintado Huamán**, desarrollador web de Sullana, Piura. Me apasiona el código desde joven. He creado proyectos reales que usan instituciones educativas, sistemas de prevención de desastres y aplicaciones interactivas. Codifico para generar impacto real, no solo certificados.
+
+- 💻 **Frontend & Backend:** JavaScript, TypeScript, Node.js, Python, PHP, Laravel
+- 🔐 **Seguridad:** JWT, SHA-256, APIs seguras con mejores prácticas
+- 🚀 **Proyectos:** ARGOS, Intranet I.E. 14739, Spidey Tracker v30, Chronos
+- 📫 **Contacto:** [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
 </details>
 
 <details>
-  <summary><strong>🇺🇸 English</strong></summary><br />
-  <p>
-    Hi! I'm <strong>Gerson Misael Pintado Huamán</strong>, a full-stack web developer from Piura, Peru. I enjoy building solid web applications, interactive user interfaces, and useful software that solves real-world problems.
-  </p>
-  <ul>
-    <li>💻 <strong>Tech Stack:</strong> JavaScript, TypeScript, Node.js, Python, PHP, Laravel, and modern web frameworks.</li>
-    <li>🔐 <strong>Web Security:</strong> Hands-on experience with JWT authentication, SHA-256 hashing, and secure API design.</li>
-    <li>🚀 <strong>Projects:</strong> Creator of ARGOS (Disaster Prevention System), school intranets, and real-time telemetry apps.</li>
-    <li>📫 <strong>Email:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
+<summary><strong>🇺🇸 English</strong></summary><br/>
+
+I'm **Gerson Misael Pintado Huamán**, a self-taught full-stack developer from Piura, Peru. I build real software for real people — school intranets, disaster prevention platforms, and interactive web apps. I code for impact.
+
+- 💻 **Stack:** JavaScript, TypeScript, Node.js, Python, PHP, Laravel, Three.js
+- 🔐 **Security:** JWT auth, SHA-256, secure REST API design
+- 🚀 **Projects:** ARGOS, School Intranet I.E. 14739, Spidey Tracker, Chronos
+- 📫 **Email:** [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
 </details>
 
 <details>
-  <summary><strong>🇧🇷 Português</strong></summary><br />
-  <p>
-    Olá! Sou <strong>Gerson Misael Pintado Huamán</strong>, desenvolvedor web Full-Stack do Peru. Gosto de criar plataformas completas, interfaces interativas e projetos com código limpo e seguro.
-  </p>
-  <ul>
-    <li>💻 <strong>Tecnologias:</strong> JavaScript, Node.js, Python, PHP, Laravel e bancos de dados SQL/NoSQL.</li>
-    <li>🔐 <strong>Segurança:</strong> Autenticação JWT e proteção de dados com SHA-256.</li>
-    <li>📫 <strong>Contato:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
+<summary><strong>🇧🇷 Português &nbsp;|&nbsp; 🇫🇷 Français &nbsp;|&nbsp; 🇩🇪 Deutsch &nbsp;|&nbsp; 🇯🇵 日本語 &nbsp;|&nbsp; 🇨🇳 中文</strong></summary><br/>
+
+**🇧🇷** Sou desenvolvedor Full-Stack do Peru. Construo intranets escolares, sistemas de prevenção de desastres e apps interativos. [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
+
+**🇫🇷** Développeur Full-Stack du Pérou. Systèmes scolaires, prévention des catastrophes et apps web interactives. [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
+
+**🇩🇪** Full-Stack-Entwickler aus Peru. Schul-Intranets, Katastrophenschutz und interaktive Web-Apps. [misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
+
+**🇯🇵** ペルーのフルスタック開発者。学校内部ネット、防災システム、インタラクティブなWebアプリ開発者。[misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
+
+**🇨🇳** 秘鲁全栈开发者。学校内网、防灾系统、交互式Web应用。[misaelpintado7@gmail.com](mailto:misaelpintado7@gmail.com)
 </details>
 
-<details>
-  <summary><strong>🇫🇷 Français</strong></summary><br />
-  <p>
-    Bonjour! Je m'appelle <strong>Gerson Misael Pintado Huamán</strong>, développeur web Full-Stack au Pérou. Je développe des applications web rapides, des intranets scolaires et des outils interactifs sécurisés.
-  </p>
-  <ul>
-    <li>💻 <strong>Compétences:</strong> JavaScript, Node.js, Python, Laravel, bases de données et sécurité web.</li>
-    <li>📫 <strong>Contact:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<details>
-  <summary><strong>🇩🇪 Deutsch</strong></summary><br />
-  <p>
-    Hallo! Ich bin <strong>Gerson Misael Pintado Huamán</strong>, Full-Stack-Webentwickler aus Peru. Ich erstelle interaktive Webanwendungen, Schul-Intranets und sichere Software-Lösungen.
-  </p>
-  <ul>
-    <li>💻 <strong>Stack:</strong> JavaScript, Node.js, Python, PHP/Laravel und Web-Sicherheit.</li>
-    <li>📫 <strong>Kontakt:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
-</details>
+## 🛠️ Stack Tecnológico • Tech Stack
 
-<details>
-  <summary><strong>🇯🇵 日本語</strong></summary><br />
-  <p>
-    こんにちは！ペルー在住のフルスタックWeb開発者、<strong>ゲルソン・ミサエル・ピンタド・ワマン</strong>です。Webアプリケーション、学校管理システム、対話型テレメトリツールの開発を行っています。
-  </p>
-  <ul>
-    <li>💻 <strong>開発言語:</strong> JavaScript, Node.js, Python, PHP, Laravel, Webセキュリティ</li>
-    <li>📫 <strong>連絡先:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
-</details>
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=repositories"><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,python,php,laravel,react,tailwind,bootstrap,mysql,mongodb,git,github,linux,bash,postman,vscode,figma,threejs&perline=11&theme=dark" width="100%" alt="Tech Stack Icons" /></a>
+</div>
 
-<details>
-  <summary><strong>🇨🇳 中文</strong></summary><br />
-  <p>
-    你好！我是来自秘鲁的全栈Web开发者 <strong>Gerson Misael Pintado Huamán</strong>。专注于构建实用、稳定且安全的Web应用程序与自动化工具。
-  </p>
-  <ul>
-    <li>💻 <strong>技术栈:</strong> JavaScript, TypeScript, Node.js, Python, Laravel 及 Web 安全</li>
-    <li>📫 <strong>联系邮箱:</strong> <a href="mailto:misaelpintado7@gmail.com"><code>misaelpintado7@gmail.com</code></a></li>
-  </ul>
-</details>
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<div align="center">
 
-## 🛠️ Lenguajes &amp; Herramientas • Tech Stack
+| 🌐 Frontend | ⚙️ Backend | 🛡️ Seguridad | 🗄️ Bases de Datos |
+|:-----------:|:----------:|:------------:|:-----------------:|
+| JS · TS · HTML · CSS | Node.js · PHP · Laravel · Python | JWT · SHA-256 · HTTPS | MySQL · MongoDB |
+| Three.js · Canvas API | Express · REST · WebSockets | XSS/CSRF · Helmet | ORM · Migrations |
+| Tailwind · Bootstrap | GitHub Actions · CI/CD | Rate Limiting | Indexed Queries |
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,python,php,laravel,react,tailwind,bootstrap,mysql,mongodb,git,github,linux,bash,postman,vscode,figma,threejs&perline=8&theme=dark" width="100%" alt="Tech Skills Matrix" /></a>
-</p>
+</div>
 
-<p align="center">
-  <strong>🌐 Frontend:</strong>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <strong>⚙️ Backend:</strong>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <strong>🛡️ Herramientas &amp; Seguridad:</strong>
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/SHA--256-1565C0?style=flat-square&logo=shield&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
-
-## 💼 Oportunidades Profesionales &amp; Ecosistema Big Tech
-
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Developer Program" /></a>
-  <a href="https://developers.google.com/profile/u/misaelpintado7"><img src="https://img.shields.io/badge/Google_Developers-misaelpintado7-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google Developers Profile" /></a>
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Microsoft-Open_Source_Partner-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft Partner" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/GitHub_Community-100%25_Health_Score-00c853?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Community Health 100%" /></a>
-  <a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Available_for-Global_Remote_Roles-ff007f?style=for-the-badge&labelColor=0d1117" alt="Open for Work" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 Proyectos Destacados • Featured Projects
 
-### 🛡️ 1. ARGOS — Plataforma de Prevención de Desastres Naturales
-> Plataforma de monitoreo y mapas de evacuación frente a riesgos naturales con telemetría en tiempo real.
+### 🛡️ 1. ARGOS — Sistema de Prevención de Desastres
+> Alerta temprana IoT, mapas de evacuación en tiempo real, telemetría civil. Usado por autoridades locales en Piura.
 
-<p align="center">
-  <a href="https://gmph2007.github.io/sistemateos.github.oi/"><img src="assets/project_argos_animated.svg" width="100%" alt="ARGOS Prevención de Desastres" /></a>
-</p>
-<p align="center">
-  <a href="https://gmph2007.github.io/sistemateos.github.oi/"><img src="https://img.shields.io/badge/🚀_Ver_Demo_En_Vivo-00f3ff?style=for-the-badge&labelColor=0d1117" alt="Demo ARGOS" /></a>
-  <a href="https://github.com/GMPH2007/sistemateos.github.oi"><img src="https://img.shields.io/badge/💾_Ver_Repositorio-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Repo ARGOS" /></a>
-</p>
+<div align="center">
+<a href="https://gmph2007.github.io/sistemateos.github.oi/"><img src="assets/project_argos_animated.svg" width="100%" alt="ARGOS" /></a>
+</div>
 
----
-
-### 🏫 2. Intranet Escolar y Aula Virtual I.E. 14739
-> Sistema escolar integral para control de calificaciones, asistencia de estudiantes, aula virtual y módulo docente.
-
-<p align="center">
-  <a href="https://colegio14739.freedev.app/"><img src="assets/project_school_animated.svg" width="100%" alt="Intranet I.E. 14739" /></a>
-</p>
-<p align="center">
-  <a href="https://colegio14739.freedev.app/"><img src="https://img.shields.io/badge/🌐_Sitio_Web_Oficial-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Web Colegio" /></a>
-  <a href="https://github.com/GMPH2007/colegio-ie14739"><img src="https://img.shields.io/badge/💾_Ver_Repositorio-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Repo Colegio" /></a>
-</p>
+<div align="center">
+<a href="https://gmph2007.github.io/sistemateos.github.oi/"><img src="https://img.shields.io/badge/🚀_Demo_En_Vivo-Visit-00f3ff?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/sistemateos.github.oi"><img src="https://img.shields.io/badge/💾_Repositorio-Código-2ea44f?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<img src="https://img.shields.io/github/stars/GMPH2007/sistemateos.github.oi?style=for-the-badge&color=ffb703&labelColor=0d1117&logo=github" />
+</div>
 
 ---
 
-### 🕷️ 3. Spidey Tracker Official v30.0
-> Aplicación interactiva con interfaz estilo Stark Tech, radio policial mediante Web Audio API y minijuego integrado.
+### 🏫 2. Intranet I.E. 14739 — Sistema Escolar Inteligente
+> Calificaciones, asistencia, aula virtual y módulo docente. En producción con estudiantes reales.
 
-<p align="center">
-  <a href="https://github.com/GMPH2007/spidey-tracker-official"><img src="assets/project_spidey_animated.svg" width="100%" alt="Spidey Tracker Official" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/GMPH2007/spidey-tracker-official"><img src="https://img.shields.io/badge/🕷️_Explorar_Proyecto-ff0055?style=for-the-badge&labelColor=0d1117" alt="Spidey Tracker" /></a>
-</p>
+<div align="center">
+<a href="https://colegio14739.freedev.app/"><img src="assets/project_school_animated.svg" width="100%" alt="Intranet Colegio" /></a>
+</div>
+
+<div align="center">
+<a href="https://colegio14739.freedev.app/"><img src="https://img.shields.io/badge/🌐_Sitio_Oficial-Visitar-38bdf8?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/colegio-ie14739"><img src="https://img.shields.io/badge/💾_Repositorio-Código-2ea44f?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<img src="https://img.shields.io/github/stars/GMPH2007/colegio-ie14739?style=for-the-badge&color=ffb703&labelColor=0d1117&logo=github" />
+</div>
+
+---
+
+### 🕷️ 3. Spidey Tracker v30.0 — Stark Tech Edition
+> HUD Canvas 60 FPS, radio policial Web Audio API, telemetría y minijuego integrado.
+
+<div align="center">
+<a href="https://github.com/GMPH2007/spidey-tracker-official"><img src="assets/project_spidey_animated.svg" width="100%" alt="Spidey Tracker" /></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/GMPH2007/spidey-tracker-official"><img src="https://img.shields.io/badge/🕷️_Explorar-Proyecto-ff0055?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<img src="https://img.shields.io/github/stars/GMPH2007/spidey-tracker-official?style=for-the-badge&color=ffb703&labelColor=0d1117&logo=github" />
+</div>
 
 ---
 
 ### ⏱️ 4. Chronos — Reloj Digital Mundial
-> Reloj digital interactivo con cálculo preciso de husos horarios, mapa dinámico de fronteras y sonidos de campana.
+> Zonas horarias IANA, mapa dinámico de fronteras y campanas acústicas.
 
-<p align="center">
-  <a href="https://github.com/GMPH2007/reloj-digital-mundial"><img src="assets/project_chronos_animated.svg" width="100%" alt="Chronos Reloj Mundial" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/GMPH2007/reloj-digital-mundial"><img src="https://img.shields.io/badge/🕒_Probar_Chronos-ffb703?style=for-the-badge&labelColor=0d1117" alt="Chronos" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007/reloj-digital-mundial"><img src="assets/project_chronos_animated.svg" width="100%" alt="Chronos" /></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/GMPH2007/reloj-digital-mundial"><img src="https://img.shields.io/badge/⏱️_Probar_Chronos-Live-ffb703?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<img src="https://img.shields.io/github/stars/GMPH2007/reloj-digital-mundial?style=for-the-badge&color=ffb703&labelColor=0d1117&logo=github" />
+</div>
 
 ---
 
-### 🤖 5. Herramientas de Automatización &amp; Portafolio TI
-<p align="center">
-  <a href="https://github.com/GMPH2007/Bad-Robo"><img src="https://img.shields.io/badge/Bad--Robo-Python-ff5722?style=for-the-badge&logo=python&logoColor=white" alt="Bad Robo" /></a>
-  <a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated"><img src="https://img.shields.io/badge/Follower_Bot-Auto-00c853?style=for-the-badge&logo=github&logoColor=white" alt="Follower Bot" /></a>
-  <a href="https://gmph2007.github.io/trabajo-final-outsourcing/"><img src="https://img.shields.io/badge/🌐_Outsourcing_TI-00f3ff?style=for-the-badge&labelColor=0d1117" alt="Outsourcing Demo" /></a>
-</p>
+### 🤖 5. Más Proyectos Open Source
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007/Bad-Robo"><img src="https://img.shields.io/badge/🤖_Bad--Robo-Python_Automation-ff5722?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/TorilAlert"><img src="https://img.shields.io/badge/🚨_TorilAlert-Emergency_System-e53935?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/discord-moderation-bot"><img src="https://img.shields.io/badge/🎮_Discord_Bot-Moderation-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+<br/><br/>
+<a href="https://github.com/GMPH2007/premium-laravel-template"><img src="https://img.shields.io/badge/⚡_Laravel_Template-Premium-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://gmph2007.github.io/trabajo-final-outsourcing/"><img src="https://img.shields.io/badge/💼_Outsourcing_TI-Portfolio-00f3ff?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/GitHub_Follower_Bot_Automated"><img src="https://img.shields.io/badge/🔄_Follower_Bot-Automated-00c853?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+</div>
 
-## 🐍 Juego de Contribuciones • Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<p align="center">
-  <i>🎮 Serpiente en vivo recorriendo mis aportes a lo largo del año:</i>
-</p>
+## 🐍 Mapa de Contribuciones Vivo
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img alt="Contribution Snake Game" src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-snake-dark.svg" width="100%" /></a>
-</p>
+<div align="center">
+<i>🎮 La serpiente recorre cada contribución que hago día a día:</i><br/><br/>
+<a href="https://github.com/GMPH2007"><img src="https://raw.githubusercontent.com/GMPH2007/GMPH2007/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" /></a>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 Métricas de Rendimiento en GitHub
+## 📊 Estadísticas GitHub • Stats
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="assets/cyber_telemetry_matrix.svg" width="100%" alt="Panel de Rendimiento y Telemetría" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="assets/cyber_telemetry_matrix.svg" width="100%" alt="Telemetría" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react&bg_color=060a14&color=00f3ff&line=ff0080&point=00ff9d&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="assets/github-stats-custom.svg" width="100%" alt="Estadísticas de GitHub" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="https://github-readme-activity-graph.vercel.app/graph?username=GMPH2007&theme=react&bg_color=060a14&color=00f3ff&line=ff0080&point=00ff9d&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="assets/github-streak-custom.svg" width="100%" alt="Racha de Contribuciones" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=repositories"><img src="assets/github-langs-custom.svg" width="100%" alt="Lenguajes Principales" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=repositories"><img src="assets/github-stats-custom.svg" width="49%" alt="GitHub Stats" /></a>&nbsp;<a href="https://github.com/GMPH2007?tab=repositories"><img src="assets/github-langs-custom.svg" width="49%" alt="Top Languages" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=achievements"><img src="assets/github-trophies-custom.svg" width="100%" alt="Trofeos de Desarrollador" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="6" />
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="assets/github-streak-custom.svg" width="100%" alt="GitHub Streak" /></a>
+</div>
 
-## 📫 Conéctate Conmigo • Let's Connect!
+<br/>
 
-<p align="center">
-  ¿Tienes alguna propuesta de proyecto, idea innovadora o buscas colaborar en software? ¡Escríbeme!
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007?tab=achievements"><img src="assets/github-trophies-custom.svg" width="100%" alt="GitHub Trophies" /></a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/badge/Seguir%20en%20GitHub-%2B1%20Follow-00f3ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="Follow GitHub" /></a>
-  <a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Gmail-misaelpintado7%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
-  <a href="https://github.com/GMPH2007/GMPH2007/issues"><img src="https://img.shields.io/badge/Contacto-Colaboraci%C3%B3n-00c853?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Colaboración" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/GMPH2007"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,6,1&height=120&section=footer" width="100%" alt="Footer Banner" /></a>
-</p>
+## 💼 Ecosistema & Reconocimientos Profesionales
 
-<p align="center">
-  <sub>Desarrollado con dedicación por <strong>Gerson Misael Pintado Huamán</strong> • Piura, Perú 🇵🇪</sub>
-</p>
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://developers.google.com/profile/u/misaelpintado7"><img src="https://img.shields.io/badge/Google_Developers-misaelpintado7_•_3_Badges-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Microsoft-Open_Source_Partner-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/GMPH2007"><img src="https://img.shields.io/badge/Community_Health-100%25_Score-00c853?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-14_Repos-ff007f?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Disponible-Proyectos_Globales-ffb703?style=for-the-badge&labelColor=0d1117" /></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📫 Conéctate • Let's Connect
+
+<div align="center">
+<br/>
+<b>¿Tienes un proyecto, idea o quieres colaborar? ¡Escríbeme! 👇</b>
+<br/><br/>
+
+<a href="https://github.com/GMPH2007?tab=followers"><img src="https://img.shields.io/badge/⭐_Seguir_en_GitHub-Follow_Me-00f3ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:misaelpintado7@gmail.com"><img src="https://img.shields.io/badge/Gmail-misaelpintado7-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/GMPH2007/GMPH2007/discussions"><img src="https://img.shields.io/badge/💬_Discussions-Contacto-00c853?style=for-the-badge&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/GMPH2007"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,6,0&height=120&section=footer" width="100%" alt="Footer" /></a>
+
+<sub>© 2024–2026 <strong>Gerson Misael Pintado Huamán</strong> • Piura, Perú 🇵🇪 • Todos los derechos reservados.</sub>
+</div>
